@@ -1,0 +1,3121 @@
+{
+  "version": 2,
+  "updatedAt": "2026-07-10",
+  "outlets": [
+    {
+      "id": "spiegel",
+      "name": "Der Spiegel",
+      "countryID": "DE",
+      "topicFeeds": {
+        "General": "https://www.spiegel.de/index.rss"
+      }
+    },
+    {
+      "id": "faz",
+      "name": "FAZ",
+      "countryID": "DE",
+      "topicFeeds": {
+        "General": "https://www.faz.net/rss/aktuell/"
+      }
+    },
+    {
+      "id": "dw_de",
+      "name": "Deutsche Welle",
+      "countryID": "DE",
+      "topicFeeds": {
+        "General": "https://rss.dw.com/xml/rss-de-all"
+      }
+    },
+    {
+      "id": "tagesschau",
+      "name": "Tagesschau",
+      "countryID": "DE",
+      "topicFeeds": {
+        "General": "https://www.tagesschau.de/xml/rss2/"
+      }
+    },
+    {
+      "id": "dw_world",
+      "name": "DW World",
+      "countryID": "DE",
+      "topicFeeds": {
+        "World": "https://rss.dw.com/xml/rss-en-world"
+      }
+    },
+    {
+      "id": "spiegel_politik",
+      "name": "DER SPIEGEL Politik",
+      "countryID": "DE",
+      "topicFeeds": {
+        "Politics": "https://www.spiegel.de/politik/index.rss"
+      }
+    },
+    {
+      "id": "handelsblatt",
+      "name": "Handelsblatt",
+      "countryID": "DE",
+      "topicFeeds": {
+        "Economy": "https://www.handelsblatt.com/contentexport/feed/finanzen"
+      }
+    },
+    {
+      "id": "golem",
+      "name": "Golem.de",
+      "countryID": "DE",
+      "topicFeeds": {
+        "Technology": "https://rss.golem.de/rss.php?feed=RSS2.0"
+      }
+    },
+    {
+      "id": "aerzteblatt",
+      "name": "Deutsches Ärzteblatt",
+      "countryID": "DE",
+      "topicFeeds": {
+        "Health": "https://www.aerzteblatt.de/rss/news.asp"
+      }
+    },
+    {
+      "id": "sport1",
+      "name": "SPORT1",
+      "countryID": "DE",
+      "topicFeeds": {
+        "Sports": "https://www.sport.de/rss/news/"
+      }
+    },
+    {
+      "id": "promiflash",
+      "name": "Promiflash",
+      "countryID": "DE",
+      "topicFeeds": {
+        "Entertainment": "https://www.promiflash.de/feed"
+      }
+    },
+    {
+      "id": "iheartberlin",
+      "name": "I Heart Berlin",
+      "countryID": "DE",
+      "topicFeeds": {
+        "Lifestyle": "https://www.iheartberlin.de/feed/"
+      }
+    },
+    {
+      "id": "travelbook",
+      "name": "Travelbook",
+      "countryID": "DE",
+      "topicFeeds": {
+        "Travel": "https://www.travelbook.de/feed"
+      }
+    },
+    {
+      "id": "gamestar",
+      "name": "GameStar",
+      "countryID": "DE",
+      "topicFeeds": {
+        "Games": "https://www.gamestar.de/rss/gamestar.rss"
+      }
+    },
+    {
+      "id": "clarin",
+      "name": "Clarín",
+      "countryID": "AR",
+      "topicFeeds": {
+        "General": "https://www.clarin.com/rss/lo-ultimo/"
+      }
+    },
+    {
+      "id": "lanacion_ar",
+      "name": "La Nación",
+      "countryID": "AR",
+      "topicFeeds": {
+        "General": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
+      }
+    },
+    {
+      "id": "lanacion_world",
+      "name": "La Nación Mundo",
+      "countryID": "AR",
+      "topicFeeds": {
+        "World": "https://www.lanacion.com.ar/arcio/rss/category/el-mundo/"
+      }
+    },
+    {
+      "id": "lanacion_politica",
+      "name": "La Nación Política",
+      "countryID": "AR",
+      "topicFeeds": {
+        "Politics": "https://www.lanacion.com.ar/arcio/rss/category/politica/"
+      }
+    },
+    {
+      "id": "ambito",
+      "name": "Ámbito Financiero",
+      "countryID": "AR",
+      "topicFeeds": {
+        "Economy": "https://www.ambito.com/rss/pages/economia.xml"
+      }
+    },
+    {
+      "id": "xataka_argentina",
+      "name": "Xataka Argentina",
+      "countryID": "AR",
+      "topicFeeds": {
+        "Technology": "https://www.xataka.com.ar/tag/tecnologia/rss2.xml"
+      }
+    },
+    {
+      "id": "infobae_salud",
+      "name": "Infobae Salud",
+      "countryID": "AR",
+      "topicFeeds": {
+        "Health": "https://www.infobae.com/arc/outboundfeeds/rss/category/america/mundo/"
+      }
+    },
+    {
+      "id": "bolavip",
+      "name": "BolaVip",
+      "countryID": "AR",
+      "topicFeeds": {
+        "Sports": "https://bolavip.com/ar/rss/feed"
+      }
+    },
+    {
+      "id": "cinesargentinos",
+      "name": "Cines Argentinos",
+      "countryID": "AR",
+      "topicFeeds": {
+        "Entertainment": "https://www.cinesargentinos.com.ar/rss/cartelera/"
+      }
+    },
+    {
+      "id": "malevamag",
+      "name": "Maleva Mag",
+      "countryID": "AR",
+      "topicFeeds": {
+        "Lifestyle": "https://malevamag.com/feed/"
+      }
+    },
+    {
+      "id": "viajesclarin",
+      "name": "Viajes Clarín",
+      "countryID": "AR",
+      "topicFeeds": {
+        "Travel": "https://www.clarin.com/rss/viajes/"
+      }
+    },
+    {
+      "id": "pressover",
+      "name": "Press Over",
+      "countryID": "AR",
+      "topicFeeds": {
+        "Games": "https://pressover.news/feed/"
+      }
+    },
+    {
+      "id": "cultura_geek_games",
+      "name": "Cultura Geek Games",
+      "countryID": "AR",
+      "topicFeeds": {
+        "Games": "https://culturageek.com.ar/category/videojuegos/feed/"
+      }
+    },
+    {
+      "id": "abc_au",
+      "name": "ABC News Australia",
+      "countryID": "AU",
+      "topicFeeds": {
+        "General": "https://www.abc.net.au/news/feed/2942460/rss.xml"
+      }
+    },
+    {
+      "id": "smh",
+      "name": "The Sydney Morning Herald",
+      "countryID": "AU",
+      "topicFeeds": {
+        "General": "https://www.smh.com.au/rss/feed.xml"
+      }
+    },
+    {
+      "id": "theage",
+      "name": "The Age",
+      "countryID": "AU",
+      "topicFeeds": {
+        "General": "https://www.theage.com.au/rss/feed.xml"
+      }
+    },
+    {
+      "id": "abc_world",
+      "name": "ABC World",
+      "countryID": "AU",
+      "topicFeeds": {
+        "World": "https://www.abc.net.au/news/feed/45910/rss.xml"
+      }
+    },
+    {
+      "id": "abc_politics",
+      "name": "ABC Politics",
+      "countryID": "AU",
+      "topicFeeds": {
+        "Politics": "https://www.abc.net.au/news/feed/51120/rss.xml"
+      }
+    },
+    {
+      "id": "itnews",
+      "name": "iTnews",
+      "countryID": "AU",
+      "topicFeeds": {
+        "Technology": "https://www.itnews.com.au/RSS/rss.ashx"
+      }
+    },
+    {
+      "id": "medicalxpress_au",
+      "name": "Medical Xpress Australia",
+      "countryID": "AU",
+      "topicFeeds": {
+        "Health": "https://medicalxpress.com/rss-feed/"
+      }
+    },
+    {
+      "id": "foxsports_au",
+      "name": "Fox Sports Australia",
+      "countryID": "AU",
+      "topicFeeds": {
+        "Sports": "https://www.foxsports.com.au/content-feeds/breaking-news/"
+      }
+    },
+    {
+      "id": "whomagazine",
+      "name": "WHO Magazine",
+      "countryID": "AU",
+      "topicFeeds": {
+        "Entertainment": "https://www.who.com.au/entertainment/feed/"
+      }
+    },
+    {
+      "id": "russh",
+      "name": "RUSSH",
+      "countryID": "AU",
+      "topicFeeds": {
+        "Lifestyle": "https://www.russh.com/feed/"
+      }
+    },
+    {
+      "id": "ytravelblog",
+      "name": "Y Travel Blog",
+      "countryID": "AU",
+      "topicFeeds": {
+        "Travel": "https://www.ytravelblog.com/feed/"
+      }
+    },
+    {
+      "id": "pressstart",
+      "name": "Press Start",
+      "countryID": "AU",
+      "topicFeeds": {
+        "Games": "https://press-start.com.au/rss"
+      }
+    },
+    {
+      "id": "cnn",
+      "name": "CNN",
+      "countryID": "BR",
+      "topicFeeds": {
+        "General": "https://www.cnnbrasil.com.br/feed/"
+      }
+    },
+    {
+      "id": "revistaoeste",
+      "name": "Revista Oeste",
+      "countryID": "BR",
+      "topicFeeds": {
+        "General": "https://revistaoeste.com/feed/"
+      }
+    },
+    {
+      "id": "jovempan",
+      "name": "Jovem Pan News",
+      "countryID": "BR",
+      "topicFeeds": {
+        "General": "https://jovempan.com.br/feed"
+      }
+    },
+    {
+      "id": "bbcbrasil",
+      "name": "BBC News Brasil",
+      "countryID": "BR",
+      "topicFeeds": {
+        "World": "https://feeds.bbci.co.uk/portuguese/rss.xml"
+      }
+    },
+    {
+      "id": "g1mundo",
+      "name": "G1 Mundo",
+      "countryID": "BR",
+      "topicFeeds": {
+        "World": "https://g1.globo.com/rss/g1/mundo/"
+      }
+    },
+    {
+      "id": "terra",
+      "name": "Terra Notícias",
+      "countryID": "BR",
+      "topicFeeds": {
+        "World": "https://www.terra.com.br/rss.xml"
+      }
+    },
+    {
+      "id": "folhamundo",
+      "name": "Folha Mundo",
+      "countryID": "BR",
+      "topicFeeds": {
+        "World": "https://feeds.folha.uol.com.br/mundo/rss091.xml"
+      }
+    },
+    {
+      "id": "rfi",
+      "name": "RFI Brasil",
+      "countryID": "BR",
+      "topicFeeds": {
+        "World": "https://www.rfi.fr/br/rss"
+      }
+    },
+    {
+      "id": "globo",
+      "name": "Globo / G1",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Politics": "https://g1.globo.com/rss/g1/politica/",
+        "Economy": "https://g1.globo.com/rss/g1/economia/",
+        "Technology": "https://g1.globo.com/rss/g1/tecnologia/",
+        "Entertainment": "https://g1.globo.com/rss/g1/pop-arte/",
+        "Sports": "https://ge.globo.com/rss/ge/"
+      }
+    },
+    {
+      "id": "poder360",
+      "name": "Poder360",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Politics": "https://www.poder360.com.br/feed/"
+      }
+    },
+    {
+      "id": "diariodopoder",
+      "name": "Diário do Poder",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Politics": "https://diariodopoder.com.br/feed"
+      }
+    },
+    {
+      "id": "conexaopolitica",
+      "name": "Conexão Política",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Politics": "https://www.conexaopolitica.com.br/feed/"
+      }
+    },
+    {
+      "id": "institutoliberal",
+      "name": "Instituto Liberal",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Politics": "https://www.institutoliberal.org.br/feed/"
+      }
+    },
+    {
+      "id": "congressoemfoco",
+      "name": "Congresso em Foco",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Politics": "https://congressoemfoco.uol.com.br/feed/"
+      }
+    },
+    {
+      "id": "metropolespolitica",
+      "name": "Metrópoles Política",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Politics": "https://www.metropoles.com/feed"
+      }
+    },
+    {
+      "id": "jovempanpolitica",
+      "name": "Jovem Pan Política",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Politics": "https://jovempan.com.br/feed"
+      }
+    },
+    {
+      "id": "infomoney",
+      "name": "InfoMoney",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Economy": "https://www.infomoney.com.br/feed/"
+      }
+    },
+    {
+      "id": "exame",
+      "name": "Exame",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Economy": "https://exame.com/feed/"
+      }
+    },
+    {
+      "id": "moneytimes",
+      "name": "Money Times",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Economy": "https://www.moneytimes.com.br/feed/"
+      }
+    },
+    {
+      "id": "investing",
+      "name": "Investing Brasil",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Economy": "https://br.investing.com/rss/news.rss"
+      }
+    },
+    {
+      "id": "seudinheiro",
+      "name": "Seu Dinheiro",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Economy": "https://www.seudinheiro.com/feed/"
+      }
+    },
+    {
+      "id": "capitalist",
+      "name": "Capitalist",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Economy": "https://capitalist.com.br/feed/"
+      }
+    },
+    {
+      "id": "olhardigital",
+      "name": "Olhar Digital",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Technology": "https://olhardigital.com.br/feed/"
+      }
+    },
+    {
+      "id": "tecnoblog",
+      "name": "Tecnoblog",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Technology": "https://tecnoblog.net/feed/"
+      }
+    },
+    {
+      "id": "canaltech",
+      "name": "Canaltech",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Technology": "https://feeds.feedburner.com/canaltechbr"
+      }
+    },
+    {
+      "id": "meiobit",
+      "name": "Meio Bit",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Technology": "https://meiobit.com/feed/"
+      }
+    },
+    {
+      "id": "manualdousuario",
+      "name": "Manual do Usuário",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Technology": "https://manualdousuario.net/feed/"
+      }
+    },
+    {
+      "id": "macmagazine",
+      "name": "Mac Magazine",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Technology": "https://macmagazine.com.br/feed"
+      }
+    },
+    {
+      "id": "adrenaline_games",
+      "name": "Adrenaline",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Technology": "https://www.adrenaline.com.br/feed/"
+      }
+    },
+    {
+      "id": "diolinux",
+      "name": "Diolinux",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Technology": "https://diolinux.com.br/feed"
+      }
+    },
+    {
+      "id": "vejasaude",
+      "name": "Veja Saúde",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Health": "https://saude.abril.com.br/feed/"
+      }
+    },
+    {
+      "id": "tuasaude",
+      "name": "Tua Saúde",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Health": "https://www.tuasaude.com/feed/"
+      }
+    },
+    {
+      "id": "saudebusiness",
+      "name": "Saúde Business",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Health": "https://www.saudebusiness.com/feed"
+      }
+    },
+    {
+      "id": "portalped",
+      "name": "PortalPed",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Health": "https://portalped.com.br/feed/"
+      }
+    },
+    {
+      "id": "ge",
+      "name": "ge",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Sports": "https://ge.globo.com/rss/ge"
+      }
+    },
+    {
+      "id": "espnbrasil",
+      "name": "ESPN Brasil",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Sports": "https://www.espn.com.br/rss"
+      }
+    },
+    {
+      "id": "gazetaesportiva",
+      "name": "Gazeta Esportiva",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Sports": "https://www.gazetaesportiva.com/feed/"
+      }
+    },
+    {
+      "id": "torcedores",
+      "name": "Torcedores.com",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Sports": "https://www.torcedores.com/feed"
+      }
+    },
+    {
+      "id": "netflu",
+      "name": "NETFLU",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Sports": "https://www.netflu.com.br/feed/"
+      }
+    },
+    {
+      "id": "trivela",
+      "name": "Trivela",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Sports": "https://trivela.com.br/feed/"
+      }
+    },
+    {
+      "id": "surtoolimpico",
+      "name": "Surto Olímpico",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Sports": "https://surtoolimpico.com.br/feed/"
+      }
+    },
+    {
+      "id": "observatoriodocinema",
+      "name": "Observatório do Cinema",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Entertainment": "https://observatoriodocinema.com.br/web-stories/feed/"
+      }
+    },
+    {
+      "id": "cinemacomrapadura",
+      "name": "Cinema com Rapadura",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Entertainment": "https://cinemacomrapadura.com.br/feed"
+      }
+    },
+    {
+      "id": "stealthelook",
+      "name": "STEAL THE LOOK",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Lifestyle": "https://stealthelook.com.br/feed/"
+      }
+    },
+    {
+      "id": "ellebrasil",
+      "name": "ELLE Brasil",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Lifestyle": "https://elle.com.br/feed"
+      }
+    },
+    {
+      "id": "thesummerhunter",
+      "name": "The Summer Hunter",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Lifestyle": "https://thesummerhunter.com/feed"
+      }
+    },
+    {
+      "id": "fitfeed",
+      "name": "FitFeed",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Lifestyle": "https://fitfeed.com.br/feed"
+      }
+    },
+    {
+      "id": "melhoresdestinos",
+      "name": "Melhores Destinos",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Travel": "https://www.melhoresdestinos.com.br/feed"
+      }
+    },
+    {
+      "id": "dicasdeviagem",
+      "name": "Dicas de Viagem",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Travel": "https://www.dicasdeviagem.com/feed"
+      }
+    },
+    {
+      "id": "ignbrasil",
+      "name": "IGN Brasil",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Games": "https://br.ign.com/feed.xml"
+      }
+    },
+    {
+      "id": "adrenaline",
+      "name": "Adrenaline",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Games": "https://www.adrenaline.com.br/feed/"
+      }
+    },
+    {
+      "id": "gamevicio",
+      "name": "GameVicio",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Games": "https://www.gamevicio.com/rss/"
+      }
+    },
+    {
+      "id": "canaltechgames",
+      "name": "Canaltech Games",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Games": "https://canaltech.com.br/rss/games/"
+      }
+    },
+    {
+      "id": "ovicio",
+      "name": "OVício",
+      "countryID": "BR",
+      "topicFeeds": {
+        "Games": "https://ovicio.com.br/feed/"
+      }
+    },
+    {
+      "id": "cbc",
+      "name": "CBC",
+      "countryID": "CA",
+      "topicFeeds": {
+        "General": "https://www.cbc.ca/webfeed/rss/rss-topstories"
+      }
+    },
+    {
+      "id": "nationalpost",
+      "name": "National Post",
+      "countryID": "CA",
+      "topicFeeds": {
+        "General": "https://nationalpost.com/feed/"
+      }
+    },
+    {
+      "id": "cbc_world",
+      "name": "CBC World",
+      "countryID": "CA",
+      "topicFeeds": {
+        "World": "https://www.cbc.ca/webfeed/rss/rss-world"
+      }
+    },
+    {
+      "id": "cbc_politics",
+      "name": "CBC Politics",
+      "countryID": "CA",
+      "topicFeeds": {
+        "Politics": "https://www.cbc.ca/webfeed/rss/rss-politics"
+      }
+    },
+    {
+      "id": "financialpost",
+      "name": "Financial Post",
+      "countryID": "CA",
+      "topicFeeds": {
+        "Economy": "https://financialpost.com/feed"
+      }
+    },
+    {
+      "id": "betakit",
+      "name": "BetaKit",
+      "countryID": "CA",
+      "topicFeeds": {
+        "Technology": "https://betakit.com/feed/"
+      }
+    },
+    {
+      "id": "sportsnet",
+      "name": "Sportsnet",
+      "countryID": "CA",
+      "topicFeeds": {
+        "Sports": "https://www.sportsnet.ca/feed/"
+      }
+    },
+    {
+      "id": "the_gate",
+      "name": "The Gate",
+      "countryID": "CA",
+      "topicFeeds": {
+        "Entertainment": "https://www.thegate.ca/feed/"
+      }
+    },
+    {
+      "id": "screenrant",
+      "name": "Screen Rant",
+      "countryID": "CA",
+      "topicFeeds": {
+        "Entertainment": "https://screenrant.com/feed/"
+      }
+    },
+    {
+      "id": "torontolife",
+      "name": "Toronto Life",
+      "countryID": "CA",
+      "topicFeeds": {
+        "Lifestyle": "https://torontolife.com/feed/"
+      }
+    },
+    {
+      "id": "theplanetd",
+      "name": "The Planet D",
+      "countryID": "CA",
+      "topicFeeds": {
+        "Travel": "https://theplanetd.com/feed/"
+      }
+    },
+    {
+      "id": "gamespotca",
+      "name": "GameSpot Canada",
+      "countryID": "CA",
+      "topicFeeds": {
+        "Games": "https://www.gamespot.com/feeds/news/"
+      }
+    },
+    {
+      "id": "latercera",
+      "name": "La Tercera",
+      "countryID": "CL",
+      "topicFeeds": {
+        "General": "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml"
+      }
+    },
+    {
+      "id": "latercera_mundo",
+      "name": "La Tercera Mundo",
+      "countryID": "CL",
+      "topicFeeds": {
+        "World": "https://www.latercera.com/arc/outboundfeeds/rss/category/mundo/?outputType=xml"
+      }
+    },
+    {
+      "id": "latercera_politica",
+      "name": "La Tercera Política",
+      "countryID": "CL",
+      "topicFeeds": {
+        "Politics": "https://www.latercera.com/rss"
+      }
+    },
+    {
+      "id": "fayerwayer",
+      "name": "FayerWayer",
+      "countryID": "CL",
+      "topicFeeds": {
+        "Technology": "https://www.fayerwayer.com/feed/"
+      }
+    },
+    {
+      "id": "latercera_quepasa",
+      "name": "La Tercera Que Pasa",
+      "countryID": "CL",
+      "topicFeeds": {
+        "Health": "https://www.latercera.com/rss"
+      }
+    },
+    {
+      "id": "redgol",
+      "name": "RedGol",
+      "countryID": "CL",
+      "topicFeeds": {
+        "Sports": "https://redgol.cl/rss/feed"
+      }
+    },
+    {
+      "id": "culto",
+      "name": "Culto",
+      "countryID": "CL",
+      "topicFeeds": {
+        "Entertainment": "https://www.latercera.com/rss"
+      }
+    },
+    {
+      "id": "zancada",
+      "name": "Zancada",
+      "countryID": "CL",
+      "topicFeeds": {
+        "Lifestyle": "https://zancada.com/feed/"
+      }
+    },
+    {
+      "id": "cascada_travel",
+      "name": "Cascada Travel",
+      "countryID": "CL",
+      "topicFeeds": {
+        "Travel": "https://www.cascada.travel/blog/rss.xml"
+      }
+    },
+    {
+      "id": "trekkingchile",
+      "name": "TrekkingChile",
+      "countryID": "CL",
+      "topicFeeds": {
+        "Travel": "https://www.trekkingchile.com/en/category/blog/feed/"
+      }
+    },
+    {
+      "id": "ecochile",
+      "name": "EcoChile Travel",
+      "countryID": "CL",
+      "topicFeeds": {
+        "Travel": "https://ecochile.travel/feed/"
+      }
+    },
+    {
+      "id": "pisapapeles_games",
+      "name": "Pisapapeles",
+      "countryID": "CL",
+      "topicFeeds": {
+        "Games": "https://pisapapeles.net/feed/"
+      }
+    },
+    {
+      "id": "xinhua",
+      "name": "Xinhua",
+      "countryID": "CN",
+      "topicFeeds": {
+        "General": "https://www.xinhuanet.com/english/rss/worldrss.xml"
+      }
+    },
+    {
+      "id": "globaltimes",
+      "name": "Global Times",
+      "countryID": "CN",
+      "topicFeeds": {
+        "General": "https://www.globaltimes.cn/rss/outbrain.xml"
+      }
+    },
+    {
+      "id": "chinadaily",
+      "name": "China Daily",
+      "countryID": "CN",
+      "topicFeeds": {
+        "General": "https://www.chinadaily.com.cn/rss/china_rss.xml"
+      }
+    },
+    {
+      "id": "chinadaily_world",
+      "name": "China Daily World",
+      "countryID": "CN",
+      "topicFeeds": {
+        "World": "https://www.chinadaily.com.cn/rss/world_rss.xml"
+      }
+    },
+    {
+      "id": "globaltimes_china",
+      "name": "Global Times China",
+      "countryID": "CN",
+      "topicFeeds": {
+        "Politics": "https://www.globaltimes.cn/rss/outbrain.xml"
+      }
+    },
+    {
+      "id": "epochtimes_cn",
+      "name": "The Epoch Times",
+      "countryID": "CN",
+      "topicFeeds": {
+        "Economy": "https://feed.theepochtimes.com/china/feed"
+      }
+    },
+    {
+      "id": "technode",
+      "name": "TechNode",
+      "countryID": "CN",
+      "topicFeeds": {
+        "Technology": "https://technode.com/feed/"
+      }
+    },
+    {
+      "id": "cgtnsports",
+      "name": "CGTN Sports",
+      "countryID": "CN",
+      "topicFeeds": {
+        "Sports": "https://www.cgtn.com/subscribe/rss/section/sports.xml"
+      }
+    },
+    {
+      "id": "chinadailyculture",
+      "name": "China Daily Culture",
+      "countryID": "CN",
+      "topicFeeds": {
+        "Entertainment": "https://www.chinadaily.com.cn/rss/culture_rss.xml"
+      }
+    },
+    {
+      "id": "radiichina",
+      "name": "Radii China",
+      "countryID": "CN",
+      "topicFeeds": {
+        "Lifestyle": "https://radii.co/feed"
+      }
+    },
+    {
+      "id": "wildchina",
+      "name": "WildChina",
+      "countryID": "CN",
+      "topicFeeds": {
+        "Travel": "https://wildchina.com/feed/"
+      }
+    },
+    {
+      "id": "gcores",
+      "name": "Gcores",
+      "countryID": "CN",
+      "topicFeeds": {
+        "Games": "https://www.gcores.com/rss"
+      }
+    },
+    {
+      "id": "yonhap",
+      "name": "Yonhap News",
+      "countryID": "KR",
+      "topicFeeds": {
+        "General": "https://en.yna.co.kr/RSS/news.xml"
+      }
+    },
+    {
+      "id": "koreatimes",
+      "name": "The Korea Times",
+      "countryID": "KR",
+      "topicFeeds": {
+        "General": "https://feed.koreatimes.co.kr/k/allnews.xml"
+      }
+    },
+    {
+      "id": "koreaherald_national",
+      "name": "The Korea Herald National",
+      "countryID": "KR",
+      "topicFeeds": {
+        "Politics": "https://www.koreaherald.com/rss/newsAll"
+      }
+    },
+    {
+      "id": "kedglobal",
+      "name": "KED Global",
+      "countryID": "KR",
+      "topicFeeds": {
+        "Economy": "https://www.kedglobal.com/rss/all.xml"
+      }
+    },
+    {
+      "id": "koreabiomed",
+      "name": "Korea Biomedical Review",
+      "countryID": "KR",
+      "topicFeeds": {
+        "Health": "https://www.koreabiomed.com/rss/allArticle.xml"
+      }
+    },
+    {
+      "id": "koreaherald_sports",
+      "name": "The Korea Herald Sports",
+      "countryID": "KR",
+      "topicFeeds": {
+        "Sports": "https://m.koreaherald.com/rss/kh_Sports"
+      }
+    },
+    {
+      "id": "yonhap_sports",
+      "name": "Yonhap News Agency Sports",
+      "countryID": "KR",
+      "topicFeeds": {
+        "Sports": "https://en.yna.co.kr/RSS/sports.xml"
+      }
+    },
+    {
+      "id": "koreatimesculture",
+      "name": "The Korea Times Culture",
+      "countryID": "KR",
+      "topicFeeds": {
+        "Entertainment": "https://www.koreatimes.co.kr/www/rss/rss.xml"
+      }
+    },
+    {
+      "id": "hapskorea",
+      "name": "Haps Magazine Korea",
+      "countryID": "KR",
+      "topicFeeds": {
+        "Lifestyle": "https://hapskorea.com/feed/"
+      }
+    },
+    {
+      "id": "koreatimestravel",
+      "name": "The Korea Times Travel",
+      "countryID": "KR",
+      "topicFeeds": {
+        "Travel": "https://www.koreatimes.co.kr/www/rss/rss.xml"
+      }
+    },
+    {
+      "id": "inven",
+      "name": "Inven",
+      "countryID": "KR",
+      "topicFeeds": {
+        "Games": "https://feeds.feedburner.com/inven"
+      }
+    },
+    {
+      "id": "egyptindependent",
+      "name": "Egypt Independent",
+      "countryID": "EG",
+      "topicFeeds": {
+        "General": "https://egyptindependent.com/feed/"
+      }
+    },
+    {
+      "id": "enterprise_tech",
+      "name": "Enterprise",
+      "countryID": "EG",
+      "topicFeeds": {
+        "Economy": "https://enterprise.news/feed/"
+      }
+    },
+    {
+      "id": "enterprise",
+      "name": "Enterprise",
+      "countryID": "EG",
+      "topicFeeds": {
+        "Technology": "https://enterprise.news/feed/"
+      }
+    },
+    {
+      "id": "dailynewsegypt_health",
+      "name": "Daily News Egypt Health",
+      "countryID": "EG",
+      "topicFeeds": {
+        "Health": "https://dailynewsegypt.com/feed/"
+      }
+    },
+    {
+      "id": "nilesports",
+      "name": "Nile Sports",
+      "countryID": "EG",
+      "topicFeeds": {
+        "Sports": "https://nilesports.com/feed/"
+      }
+    },
+    {
+      "id": "dailynewsegypt_sports",
+      "name": "Daily News Egypt Sports",
+      "countryID": "EG",
+      "topicFeeds": {
+        "Sports": "https://www.dailynewsegypt.com/category/sports/feed/"
+      }
+    },
+    {
+      "id": "egyptianstreets_culture",
+      "name": "Egyptian Streets Arts & Culture",
+      "countryID": "EG",
+      "topicFeeds": {
+        "Entertainment": "https://egyptianstreets.com/category/arts-culture/feed/"
+      }
+    },
+    {
+      "id": "scoopempire",
+      "name": "Scoop Empire",
+      "countryID": "EG",
+      "topicFeeds": {
+        "Lifestyle": "https://scoopempire.com/feed/"
+      }
+    },
+    {
+      "id": "egyptindependenttravel",
+      "name": "Egypt Independent Travel",
+      "countryID": "EG",
+      "topicFeeds": {
+        "Travel": "https://www.egyptindependent.com/category/travel/feed/"
+      }
+    },
+    {
+      "id": "arabhardware",
+      "name": "ArabHardware Gaming",
+      "countryID": "EG",
+      "topicFeeds": {
+        "Games": "https://arabhardware.net/feed/"
+      }
+    },
+    {
+      "id": "lavanguardia",
+      "name": "La Vanguardia",
+      "countryID": "ES",
+      "topicFeeds": {
+        "General": "https://www.lavanguardia.com/rss/home.xml"
+      }
+    },
+    {
+      "id": "elpais_internacional",
+      "name": "El País Internacional",
+      "countryID": "ES",
+      "topicFeeds": {
+        "World": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada"
+      }
+    },
+    {
+      "id": "elpais",
+      "name": "El País",
+      "countryID": "ES",
+      "topicFeeds": {
+        "Politics": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada",
+        "Economy": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada"
+      }
+    },
+    {
+      "id": "expansion",
+      "name": "Expansión",
+      "countryID": "ES",
+      "topicFeeds": {
+        "Economy": "https://e00-expansion.uecdn.es/rss/portada.xml"
+      }
+    },
+    {
+      "id": "xataka",
+      "name": "Xataka",
+      "countryID": "ES",
+      "topicFeeds": {
+        "Technology": "https://www.xataka.com/tag/tecnologia/rss2.xml"
+      }
+    },
+    {
+      "id": "cuidateplus",
+      "name": "CuídatePlus",
+      "countryID": "ES",
+      "topicFeeds": {
+        "Health": "https://cuidateplus.marca.com/rss.xml"
+      }
+    },
+    {
+      "id": "marca",
+      "name": "Marca",
+      "countryID": "ES",
+      "topicFeeds": {
+        "Sports": "https://e00-marca.uecdn.es/rss/portada.xml"
+      }
+    },
+    {
+      "id": "sensacine",
+      "name": "SensaCine",
+      "countryID": "ES",
+      "topicFeeds": {
+        "Entertainment": "https://www.sensacine.com/rss/noticias.xml"
+      }
+    },
+    {
+      "id": "madridnofrills",
+      "name": "Madrid No Frills",
+      "countryID": "ES",
+      "topicFeeds": {
+        "Lifestyle": "https://madridnofrills.com/feed/"
+      }
+    },
+    {
+      "id": "spainbuddy",
+      "name": "Spain Buddy",
+      "countryID": "ES",
+      "topicFeeds": {
+        "Travel": "https://www.spainbuddy.com/feed/"
+      }
+    },
+    {
+      "id": "vandal",
+      "name": "Vandal",
+      "countryID": "ES",
+      "topicFeeds": {
+        "Games": "https://vandal.elespanol.com/xml.cgi"
+      }
+    },
+    {
+      "id": "nyt",
+      "name": "New York Times",
+      "countryID": "US",
+      "topicFeeds": {
+        "Politics": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+        "Economy": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "Health": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+        "Entertainment": "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml"
+      }
+    },
+    {
+      "id": "cbsnews",
+      "name": "CBS News",
+      "countryID": "US",
+      "topicFeeds": {
+        "General": "https://www.cbsnews.com/feeds/rss/main.rss"
+      }
+    },
+    {
+      "id": "nbcnews",
+      "name": "NBC News",
+      "countryID": "US",
+      "topicFeeds": {
+        "General": "https://feeds.nbcnews.com/nbcnews/public/news"
+      }
+    },
+    {
+      "id": "npr",
+      "name": "NPR",
+      "countryID": "US",
+      "topicFeeds": {
+        "General": "https://feeds.npr.org/1001/rss.xml"
+      }
+    },
+    {
+      "id": "nytimes",
+      "name": "The New York Times",
+      "countryID": "US",
+      "topicFeeds": {
+        "General": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+      }
+    },
+    {
+      "id": "nytworld",
+      "name": "New York Times World",
+      "countryID": "US",
+      "topicFeeds": {
+        "World": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+      }
+    },
+    {
+      "id": "nprworld",
+      "name": "NPR World",
+      "countryID": "US",
+      "topicFeeds": {
+        "World": "https://feeds.npr.org/1004/rss.xml"
+      }
+    },
+    {
+      "id": "epochtimes_us",
+      "name": "The Epoch Times",
+      "countryID": "US",
+      "topicFeeds": {
+        "World": "https://feed.theepochtimes.com/world/feed",
+        "Economy": "https://feed.theepochtimes.com/business/economies/feed",
+        "Technology": "https://feed.theepochtimes.com/tech/feed",
+        "Health": "https://feed.theepochtimes.com/health/health-news/feed",
+        "Entertainment": "https://feed.theepochtimes.com/entertainment/entertainment-news/feed/"
+      }
+    },
+    {
+      "id": "politico_us",
+      "name": "POLITICO",
+      "countryID": "US",
+      "topicFeeds": {
+        "Politics": "https://www.politico.com/rss/politicopicks.xml"
+      }
+    },
+    {
+      "id": "cnbc",
+      "name": "CNBC",
+      "countryID": "US",
+      "topicFeeds": {
+        "Economy": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+      }
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg Economics",
+      "countryID": "US",
+      "topicFeeds": {
+        "Economy": "https://feeds.bloomberg.com/economics/news.rss"
+      }
+    },
+    {
+      "id": "sciencedaily",
+      "name": "ScienceDaily",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.sciencedaily.com/rss/strange_offbeat.xml"
+      }
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://techcrunch.com/feed/"
+      }
+    },
+    {
+      "id": "theverge",
+      "name": "The Verge",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.theverge.com/rss/index.xml"
+      }
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://feeds.arstechnica.com/arstechnica/index"
+      }
+    },
+    {
+      "id": "wired",
+      "name": "WIRED",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "engadget",
+      "name": "Engadget",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.engadget.com/rss.xml"
+      }
+    },
+    {
+      "id": "cnet",
+      "name": "CNET",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.cnet.com/rss/news/"
+      }
+    },
+    {
+      "id": "zdnet",
+      "name": "ZDNet",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.zdnet.com/topic/all/rss.xml"
+      }
+    },
+    {
+      "id": "venturebeat",
+      "name": "VentureBeat",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://venturebeat.com/feed/"
+      }
+    },
+    {
+      "id": "mittechnologyreview",
+      "name": "MIT Technology Review",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.technologyreview.com/feed/"
+      }
+    },
+    {
+      "id": "ieeespectrum",
+      "name": "IEEE Spectrum",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://spectrum.ieee.org/feeds/feed.rss"
+      }
+    },
+    {
+      "id": "macrumors",
+      "name": "MacRumors",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://feeds.macrumors.com/MacRumors-All"
+      }
+    },
+    {
+      "id": "9to5mac",
+      "name": "9to5mac",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://9to5mac.com/feed/"
+      }
+    },
+    {
+      "id": "cultofmac",
+      "name": "Cult of Mac",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.cultofmac.com/feed/"
+      }
+    },
+    {
+      "id": "digitaltrends",
+      "name": "Digital Trends",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.digitaltrends.com/feed/"
+      }
+    },
+    {
+      "id": "techradar",
+      "name": "TechRadar",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.techradar.com/feeds.xml"
+      }
+    },
+    {
+      "id": "tomshardware",
+      "name": "Tom's Hardware",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.tomshardware.com/feeds.xml"
+      }
+    },
+    {
+      "id": "xdadevelopers",
+      "name": "XDA Developers",
+      "countryID": "US",
+      "topicFeeds": {
+        "Technology": "https://www.xda-developers.com/feed/"
+      }
+    },
+    {
+      "id": "espnus",
+      "name": "ESPN",
+      "countryID": "US",
+      "topicFeeds": {
+        "Sports": "https://www.espn.com/espn/rss/news"
+      }
+    },
+    {
+      "id": "cbssports",
+      "name": "CBS Sports",
+      "countryID": "US",
+      "topicFeeds": {
+        "Sports": "https://www.cbssports.com/rss/headlines/"
+      }
+    },
+    {
+      "id": "foxsports",
+      "name": "FOX Sports",
+      "countryID": "US",
+      "topicFeeds": {
+        "Sports": "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&size=30"
+      }
+    },
+    {
+      "id": "si",
+      "name": "Sports Illustrated",
+      "countryID": "US",
+      "topicFeeds": {
+        "Sports": "https://www.si.com/feed"
+      }
+    },
+    {
+      "id": "yahoosports",
+      "name": "Yahoo Sports",
+      "countryID": "US",
+      "topicFeeds": {
+        "Sports": "https://sports.yahoo.com/rss/"
+      }
+    },
+    {
+      "id": "nbcsports",
+      "name": "NBC Sports",
+      "countryID": "US",
+      "topicFeeds": {
+        "Sports": "https://www.nbcsports.com/index.atom"
+      }
+    },
+    {
+      "id": "bleacherreport",
+      "name": "Bleacher Report",
+      "countryID": "US",
+      "topicFeeds": {
+        "Sports": "https://feeds.bleacherreport.com/articles"
+      }
+    },
+    {
+      "id": "sbnation",
+      "name": "SB Nation",
+      "countryID": "US",
+      "topicFeeds": {
+        "Sports": "https://www.sbnation.com/rss/index.xml"
+      }
+    },
+    {
+      "id": "skysports_us",
+      "name": "Sky Sports",
+      "countryID": "US",
+      "topicFeeds": {
+        "Sports": "https://www.skysports.com/rss/12040"
+      }
+    },
+    {
+      "id": "variety",
+      "name": "Variety",
+      "countryID": "US",
+      "topicFeeds": {
+        "Entertainment": "https://variety.com/feed/"
+      }
+    },
+    {
+      "id": "quintessence",
+      "name": "Quintessence",
+      "countryID": "US",
+      "topicFeeds": {
+        "Lifestyle": "https://quintessenceblog.com/feed/"
+      }
+    },
+    {
+      "id": "bonappetit",
+      "name": "Bon Appetit",
+      "countryID": "US",
+      "topicFeeds": {
+        "Lifestyle": "https://www.bonappetit.com/feed/rss"
+      }
+    },
+    {
+      "id": "consciouslifestyle",
+      "name": "Conscious Lifestyle Magazine",
+      "countryID": "US",
+      "topicFeeds": {
+        "Lifestyle": "https://www.consciouslifestylemag.com/feed/"
+      }
+    },
+    {
+      "id": "camillestyles",
+      "name": "Camille Styles",
+      "countryID": "US",
+      "topicFeeds": {
+        "Lifestyle": "https://camillestyles.com/feed/"
+      }
+    },
+    {
+      "id": "marthablog",
+      "name": "The Martha Blog",
+      "countryID": "US",
+      "topicFeeds": {
+        "Lifestyle": "https://www.themarthablog.com/feed"
+      }
+    },
+    {
+      "id": "cntraveler",
+      "name": "Condé Nast Traveler",
+      "countryID": "US",
+      "topicFeeds": {
+        "Travel": "https://www.cntraveler.com/feed/rss"
+      }
+    },
+    {
+      "id": "ign",
+      "name": "IGN",
+      "countryID": "US",
+      "topicFeeds": {
+        "Games": "https://feeds.feedburner.com/ign/all"
+      }
+    },
+    {
+      "id": "kotaku",
+      "name": "Kotaku",
+      "countryID": "US",
+      "topicFeeds": {
+        "Games": "https://kotaku.com/rss"
+      }
+    },
+    {
+      "id": "pcgamer",
+      "name": "PC Gamer",
+      "countryID": "US",
+      "topicFeeds": {
+        "Games": "https://www.pcgamer.com/rss/"
+      }
+    },
+    {
+      "id": "gamespot",
+      "name": "GameSpot",
+      "countryID": "US",
+      "topicFeeds": {
+        "Games": "https://www.gamespot.com/feeds/game-news/"
+      }
+    },
+    {
+      "id": "polygon",
+      "name": "Polygon",
+      "countryID": "US",
+      "topicFeeds": {
+        "Games": "https://www.polygon.com/rss/index.xml"
+      }
+    },
+    {
+      "id": "gamerant",
+      "name": "Game Rant",
+      "countryID": "US",
+      "topicFeeds": {
+        "Games": "https://gamerant.com/feed/"
+      }
+    },
+    {
+      "id": "destructoid",
+      "name": "Destructoid",
+      "countryID": "US",
+      "topicFeeds": {
+        "Games": "https://www.destructoid.com/feed/"
+      }
+    },
+    {
+      "id": "gematsu_us",
+      "name": "Gematsu",
+      "countryID": "US",
+      "topicFeeds": {
+        "Games": "https://www.gematsu.com/feed"
+      }
+    },
+    {
+      "id": "liberation",
+      "name": "Libération",
+      "countryID": "FR",
+      "topicFeeds": {
+        "General": "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml"
+      }
+    },
+    {
+      "id": "leparisien",
+      "name": "Le Parisien",
+      "countryID": "FR",
+      "topicFeeds": {
+        "General": "https://feeds.leparisien.fr/leparisien/rss"
+      }
+    },
+    {
+      "id": "france24_fr",
+      "name": "France 24",
+      "countryID": "FR",
+      "topicFeeds": {
+        "General": "https://www.france24.com/fr/rss"
+      }
+    },
+    {
+      "id": "lemonde_international",
+      "name": "Le Monde International",
+      "countryID": "FR",
+      "topicFeeds": {
+        "World": "https://www.lemonde.fr/international/rss_full.xml"
+      }
+    },
+    {
+      "id": "lemonde_politique",
+      "name": "Le Monde Politics",
+      "countryID": "FR",
+      "topicFeeds": {
+        "Politics": "https://www.lemonde.fr/en/politics/rss_full.xml"
+      }
+    },
+    {
+      "id": "lemonde",
+      "name": "Le Monde",
+      "countryID": "FR",
+      "topicFeeds": {
+        "Politics": "https://www.lemonde.fr/politique/rss_full.xml",
+        "Technology": "https://www.lemonde.fr/pixels/rss_full.xml"
+      }
+    },
+    {
+      "id": "numerama",
+      "name": "Numerama",
+      "countryID": "FR",
+      "topicFeeds": {
+        "Technology": "https://www.numerama.com/feed/"
+      }
+    },
+    {
+      "id": "santemagazine",
+      "name": "Santé Magazine",
+      "countryID": "FR",
+      "topicFeeds": {
+        "Health": "https://www.santemagazine.fr/feeds/rss"
+      }
+    },
+    {
+      "id": "lemonde_sports",
+      "name": "Le Monde Sport",
+      "countryID": "FR",
+      "topicFeeds": {
+        "Sports": "https://www.lemonde.fr/sport/rss_full.xml"
+      }
+    },
+    {
+      "id": "allocine",
+      "name": "AlloCiné",
+      "countryID": "FR",
+      "topicFeeds": {
+        "Entertainment": "https://www.allocine.fr/rss/news.xml"
+      }
+    },
+    {
+      "id": "milkmagazine",
+      "name": "Milk Magazine",
+      "countryID": "FR",
+      "topicFeeds": {
+        "Lifestyle": "https://www.milkmagazine.net/feed/"
+      }
+    },
+    {
+      "id": "lefigarovoyages",
+      "name": "Le Figaro Voyage",
+      "countryID": "FR",
+      "topicFeeds": {
+        "Travel": "https://www.lefigaro.fr/rss/figaro_voyages.xml"
+      }
+    },
+    {
+      "id": "jeuxvideo",
+      "name": "JeuxVideo",
+      "countryID": "FR",
+      "topicFeeds": {
+        "Games": "https://www.jeuxvideo.com/rss/rss.xml"
+      }
+    },
+    {
+      "id": "nos",
+      "name": "NOS",
+      "countryID": "NL",
+      "topicFeeds": {
+        "General": "https://feeds.nos.nl/nosnieuwsalgemeen"
+      }
+    },
+    {
+      "id": "nltimes",
+      "name": "NL Times",
+      "countryID": "NL",
+      "topicFeeds": {
+        "General": "https://nltimes.nl/rss.xml"
+      }
+    },
+    {
+      "id": "dutchnews",
+      "name": "DutchNews.nl",
+      "countryID": "NL",
+      "topicFeeds": {
+        "General": "https://www.dutchnews.nl/feed/"
+      }
+    },
+    {
+      "id": "nos_buitenland",
+      "name": "NOS Buitenland",
+      "countryID": "NL",
+      "topicFeeds": {
+        "World": "https://feeds.nos.nl/nosnieuwsbuitenland"
+      }
+    },
+    {
+      "id": "nos_politiek",
+      "name": "NOS Politiek",
+      "countryID": "NL",
+      "topicFeeds": {
+        "Politics": "https://feeds.nos.nl/nosnieuwspolitiek"
+      }
+    },
+    {
+      "id": "fd",
+      "name": "Het Financieele Dagblad",
+      "countryID": "NL",
+      "topicFeeds": {
+        "Economy": "https://fd.nl/?rss"
+      }
+    },
+    {
+      "id": "tweakers",
+      "name": "Tweakers",
+      "countryID": "NL",
+      "topicFeeds": {
+        "Technology": "https://tweakers.net/feeds/mixed.xml"
+      }
+    },
+    {
+      "id": "dutchnews_health",
+      "name": "DutchNews Health",
+      "countryID": "NL",
+      "topicFeeds": {
+        "Health": "https://www.dutchnews.nl/category/health/feed/"
+      }
+    },
+    {
+      "id": "vi",
+      "name": "Voetbal International",
+      "countryID": "NL",
+      "topicFeeds": {
+        "Sports": "https://www.vi.nl/rss"
+      }
+    },
+    {
+      "id": "filmtotaal",
+      "name": "FilmTotaal",
+      "countryID": "NL",
+      "topicFeeds": {
+        "Entertainment": "https://rss.filmtotaal.nl/nieuws.xml"
+      }
+    },
+    {
+      "id": "amsterdamian",
+      "name": "Amsterdamian",
+      "countryID": "NL",
+      "topicFeeds": {
+        "Lifestyle": "https://amsterdamian.com/feed/"
+      }
+    },
+    {
+      "id": "dutchreview",
+      "name": "DutchReview",
+      "countryID": "NL",
+      "topicFeeds": {
+        "Travel": "https://dutchreview.com/feed/"
+      }
+    },
+    {
+      "id": "gamekings",
+      "name": "GameKings",
+      "countryID": "NL",
+      "topicFeeds": {
+        "Games": "https://gamekings8.webnode.nl/rss/all.xml"
+      }
+    },
+    {
+      "id": "gamereactor_nl",
+      "name": "Gamereactor Nederland",
+      "countryID": "NL",
+      "topicFeeds": {
+        "Games": "https://www.gamereactor.nl/rss/rss.php?texttype=4"
+      }
+    },
+    {
+      "id": "hkfp",
+      "name": "Hong Kong Free Press",
+      "countryID": "HK",
+      "topicFeeds": {
+        "General": "https://hongkongfp.com/feed/"
+      }
+    },
+    {
+      "id": "unwirehk_games",
+      "name": "Unwire.hk",
+      "countryID": "HK",
+      "topicFeeds": {
+        "Technology": "https://unwire.hk/feed/"
+      }
+    },
+    {
+      "id": "hongkongfp_health",
+      "name": "Hong Kong Free Press Health",
+      "countryID": "HK",
+      "topicFeeds": {
+        "Health": "https://hongkongfp.com/feed/"
+      }
+    },
+    {
+      "id": "scmp_sport",
+      "name": "SCMP Sport",
+      "countryID": "HK",
+      "topicFeeds": {
+        "Sports": "https://www.scmp.com/rss/38/feed/"
+      }
+    },
+    {
+      "id": "dimsumdaily_entertainment",
+      "name": "Dimsum Daily Entertainment",
+      "countryID": "HK",
+      "topicFeeds": {
+        "Entertainment": "https://www.dimsumdaily.hk/category/entertainment/feed/"
+      }
+    },
+    {
+      "id": "sassyhongkong",
+      "name": "Sassy Hong Kong",
+      "countryID": "HK",
+      "topicFeeds": {
+        "Lifestyle": "https://www.sassyhongkong.com/feed/"
+      }
+    },
+    {
+      "id": "thehkhub",
+      "name": "The HK Hub",
+      "countryID": "HK",
+      "topicFeeds": {
+        "Travel": "https://thehkhub.com/feed/"
+      }
+    },
+    {
+      "id": "unwirehk",
+      "name": "Unwire HK Gaming",
+      "countryID": "HK",
+      "topicFeeds": {
+        "Games": "https://unwire.hk/feed/"
+      }
+    },
+    {
+      "id": "ndtv",
+      "name": "NDTV",
+      "countryID": "IN",
+      "topicFeeds": {
+        "General": "https://feeds.feedburner.com/ndtvnews-top-stories"
+      }
+    },
+    {
+      "id": "hindustantimes",
+      "name": "Hindustan Times",
+      "countryID": "IN",
+      "topicFeeds": {
+        "General": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"
+      }
+    },
+    {
+      "id": "thehindu_world",
+      "name": "The Hindu World",
+      "countryID": "IN",
+      "topicFeeds": {
+        "World": "https://www.thehindu.com/news/international/feeder/default.rss"
+      }
+    },
+    {
+      "id": "thehindu_politics",
+      "name": "The Hindu Politics",
+      "countryID": "IN",
+      "topicFeeds": {
+        "Politics": "https://www.thehindu.com/news/national/feeder/default.rss"
+      }
+    },
+    {
+      "id": "moneycontrol",
+      "name": "Moneycontrol",
+      "countryID": "IN",
+      "topicFeeds": {
+        "Economy": "https://www.moneycontrol.com/rss/business.xml"
+      }
+    },
+    {
+      "id": "economictimes",
+      "name": "The Economic Times",
+      "countryID": "IN",
+      "topicFeeds": {
+        "Economy": "https://economictimes.indiatimes.com/rssfeedsdefault.cms"
+      }
+    },
+    {
+      "id": "medianama",
+      "name": "MediaNama",
+      "countryID": "IN",
+      "topicFeeds": {
+        "Technology": "https://www.medianama.com/feed/"
+      }
+    },
+    {
+      "id": "medicaldialogues",
+      "name": "Medical Dialogues",
+      "countryID": "IN",
+      "topicFeeds": {
+        "Health": "https://medicaldialogues.in/feed"
+      }
+    },
+    {
+      "id": "sportstar",
+      "name": "Sportstar",
+      "countryID": "IN",
+      "topicFeeds": {
+        "Sports": "https://sportstar.thehindu.com/feeder/default.rss"
+      }
+    },
+    {
+      "id": "bollywoodhungama",
+      "name": "Bollywood Hungama",
+      "countryID": "IN",
+      "topicFeeds": {
+        "Entertainment": "https://www.bollywoodhungama.com/rss/news.xml"
+      }
+    },
+    {
+      "id": "urbandiaries",
+      "name": "Urban Diaries",
+      "countryID": "IN",
+      "topicFeeds": {
+        "Lifestyle": "https://urbandiaries.in/feed/"
+      }
+    },
+    {
+      "id": "naina",
+      "name": "Naina.co",
+      "countryID": "IN",
+      "topicFeeds": {
+        "Lifestyle": "https://naina.co/feed"
+      }
+    },
+    {
+      "id": "inditales",
+      "name": "IndiTales",
+      "countryID": "IN",
+      "topicFeeds": {
+        "Travel": "https://www.inditales.com/feed/"
+      }
+    },
+    {
+      "id": "timesofisrael",
+      "name": "The Times of Israel",
+      "countryID": "IL",
+      "topicFeeds": {
+        "General": "https://www.timesofisrael.com/feed/"
+      }
+    },
+    {
+      "id": "jpost",
+      "name": "The Jerusalem Post",
+      "countryID": "IL",
+      "topicFeeds": {
+        "General": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx"
+      }
+    },
+    {
+      "id": "ynet",
+      "name": "Ynetnews",
+      "countryID": "IL",
+      "topicFeeds": {
+        "General": "https://www.ynetnews.com/Integration/StoryRss2.xml"
+      }
+    },
+    {
+      "id": "timesofisrael_world",
+      "name": "The Times of Israel",
+      "countryID": "IL",
+      "topicFeeds": {
+        "World": "https://www.timesofisrael.com/feed/"
+      }
+    },
+    {
+      "id": "timesofisrael_politics",
+      "name": "The Times of Israel",
+      "countryID": "IL",
+      "topicFeeds": {
+        "Politics": "https://www.timesofisrael.com/feed/"
+      }
+    },
+    {
+      "id": "weizmann",
+      "name": "Weizmann Institute News",
+      "countryID": "IL",
+      "topicFeeds": {
+        "Health": "https://wis-wander.weizmann.ac.il/rss.xml"
+      }
+    },
+    {
+      "id": "one",
+      "name": "ONE",
+      "countryID": "IL",
+      "topicFeeds": {
+        "Sports": "https://www.one.co.il/rss"
+      }
+    },
+    {
+      "id": "secrettelaviv",
+      "name": "Secret Tel Aviv",
+      "countryID": "IL",
+      "topicFeeds": {
+        "Lifestyle": "https://www.secrettelaviv.com/feed/"
+      }
+    },
+    {
+      "id": "jewishtraveler",
+      "name": "Jewish Traveler",
+      "countryID": "IL",
+      "topicFeeds": {
+        "Travel": "https://www.jewishtraveler.co.il/feed/"
+      }
+    },
+    {
+      "id": "telavivcityladies",
+      "name": "Tel Aviv City Ladies",
+      "countryID": "IL",
+      "topicFeeds": {
+        "Travel": "https://telavivcityladies.com/feed/"
+      }
+    },
+    {
+      "id": "israel_travel_secrets",
+      "name": "Israel Travel Secrets",
+      "countryID": "IL",
+      "topicFeeds": {
+        "Travel": "https://israel-travel-secrets.com/feed/"
+      }
+    },
+    {
+      "id": "adi_sees_world",
+      "name": "Adi Sees World",
+      "countryID": "IL",
+      "topicFeeds": {
+        "Travel": "https://adiseesworld.com/feed/"
+      }
+    },
+    {
+      "id": "igoogledisrael",
+      "name": "I Googled Israel",
+      "countryID": "IL",
+      "topicFeeds": {
+        "Travel": "https://igoogledisrael.com/feed/"
+      }
+    },
+    {
+      "id": "viasabra",
+      "name": "Via Sabra",
+      "countryID": "IL",
+      "topicFeeds": {
+        "Travel": "https://viasabra.com/feed/"
+      }
+    },
+    {
+      "id": "gamepro",
+      "name": "GamePro",
+      "countryID": "IL",
+      "topicFeeds": {
+        "Games": "https://gamepro.co.il/feed/"
+      }
+    },
+    {
+      "id": "corriere",
+      "name": "Corriere della Sera",
+      "countryID": "IT",
+      "topicFeeds": {
+        "General": "https://xml2.corriereobjects.it/rss/homepage.xml"
+      }
+    },
+    {
+      "id": "ansa",
+      "name": "ANSA",
+      "countryID": "IT",
+      "topicFeeds": {
+        "General": "https://www.ansa.it/sito/ansait_rss.xml"
+      }
+    },
+    {
+      "id": "ansa_mondo",
+      "name": "ANSA Mondo",
+      "countryID": "IT",
+      "topicFeeds": {
+        "World": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml"
+      }
+    },
+    {
+      "id": "ilsole24ore",
+      "name": "Il Sole 24 Ore",
+      "countryID": "IT",
+      "topicFeeds": {
+        "Economy": "https://www.ilsole24ore.com/rss/economia.xml"
+      }
+    },
+    {
+      "id": "hdblog",
+      "name": "HDblog",
+      "countryID": "IT",
+      "topicFeeds": {
+        "Technology": "https://feeds.feedburner.com/hdblog"
+      }
+    },
+    {
+      "id": "paginemediche",
+      "name": "Pagine Mediche",
+      "countryID": "IT",
+      "topicFeeds": {
+        "Health": "https://www.paginemediche.it/feed"
+      }
+    },
+    {
+      "id": "gazzetta",
+      "name": "La Gazzetta dello Sport",
+      "countryID": "IT",
+      "topicFeeds": {
+        "Sports": "https://www.gazzetta.it/rss/home.xml"
+      }
+    },
+    {
+      "id": "cinema_centrale",
+      "name": "Cinema Centrale",
+      "countryID": "IT",
+      "topicFeeds": {
+        "Entertainment": "https://cinemacentrale.com/feed/"
+      }
+    },
+    {
+      "id": "bestmovie",
+      "name": "Best Movie",
+      "countryID": "IT",
+      "topicFeeds": {
+        "Entertainment": "https://bestmovie.it/feed/"
+      }
+    },
+    {
+      "id": "cineblog",
+      "name": "Cineblog",
+      "countryID": "IT",
+      "topicFeeds": {
+        "Entertainment": "https://www.cineblog.it/feed/"
+      }
+    },
+    {
+      "id": "comingsoon_it",
+      "name": "ComingSoon Italia",
+      "countryID": "IT",
+      "topicFeeds": {
+        "Entertainment": "https://www.comingsoon.it/feedrss/cinema"
+      }
+    },
+    {
+      "id": "frizzifrizzi",
+      "name": "Frizzifrizzi",
+      "countryID": "IT",
+      "topicFeeds": {
+        "Lifestyle": "https://www.frizzifrizzi.it/feed/"
+      }
+    },
+    {
+      "id": "turistipercaso",
+      "name": "Turisti per Caso",
+      "countryID": "IT",
+      "topicFeeds": {
+        "Travel": "https://turistipercaso.it/feed"
+      }
+    },
+    {
+      "id": "multiplayer",
+      "name": "Multiplayer.it",
+      "countryID": "IT",
+      "topicFeeds": {
+        "Games": "https://multiplayer.it/feed/rss/homepage/"
+      }
+    },
+    {
+      "id": "japantimes",
+      "name": "The Japan Times",
+      "countryID": "JP",
+      "topicFeeds": {
+        "General": "https://www.japantimes.co.jp/feed/"
+      }
+    },
+    {
+      "id": "asahi",
+      "name": "Asahi Shimbun",
+      "countryID": "JP",
+      "topicFeeds": {
+        "General": "https://www.asahi.com/rss/asahi/newsheadlines.rdf"
+      }
+    },
+    {
+      "id": "nikkei_asia",
+      "name": "Nikkei Asia",
+      "countryID": "JP",
+      "topicFeeds": {
+        "World": "https://asia.nikkei.com/rss/feed/nar"
+      }
+    },
+    {
+      "id": "asahi_politics",
+      "name": "Asahi Shimbun Politics",
+      "countryID": "JP",
+      "topicFeeds": {
+        "Politics": "https://www.asahi.com/rss/asahi/politics.rdf"
+      }
+    },
+    {
+      "id": "nikkei",
+      "name": "Nikkei Asia",
+      "countryID": "JP",
+      "topicFeeds": {
+        "Economy": "https://asia.nikkei.com/rss/feed/nar"
+      }
+    },
+    {
+      "id": "itmedia",
+      "name": "ITmedia",
+      "countryID": "JP",
+      "topicFeeds": {
+        "Technology": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml"
+      }
+    },
+    {
+      "id": "nikkansports",
+      "name": "Nikkan Sports",
+      "countryID": "JP",
+      "topicFeeds": {
+        "Sports": "https://www.nikkansports.com/atom.xml"
+      }
+    },
+    {
+      "id": "animeanime",
+      "name": "Anime Anime",
+      "countryID": "JP",
+      "topicFeeds": {
+        "Entertainment": "https://animeanime.jp/rss/index.rdf"
+      }
+    },
+    {
+      "id": "metropolisjapan",
+      "name": "Metropolis Magazine",
+      "countryID": "JP",
+      "topicFeeds": {
+        "Lifestyle": "https://metropolisjapan.com/feed/"
+      }
+    },
+    {
+      "id": "japancheapo",
+      "name": "Japan Cheapo",
+      "countryID": "JP",
+      "topicFeeds": {
+        "Travel": "https://japancheapo.com/feed/"
+      }
+    },
+    {
+      "id": "gematsu_jp",
+      "name": "Gematsu",
+      "countryID": "JP",
+      "topicFeeds": {
+        "Games": "https://www.gematsu.com/feed"
+      }
+    },
+    {
+      "id": "jornada",
+      "name": "La Jornada",
+      "countryID": "MX",
+      "topicFeeds": {
+        "General": "https://www.jornada.com.mx/rss/edicion.xml"
+      }
+    },
+    {
+      "id": "expansionmx",
+      "name": "Expansión",
+      "countryID": "MX",
+      "topicFeeds": {
+        "Economy": "https://expansion.mx/rss/economia"
+      }
+    },
+    {
+      "id": "xataka_mexico",
+      "name": "Xataka México",
+      "countryID": "MX",
+      "topicFeeds": {
+        "Technology": "https://www.xataka.com.mx/tag/tecnologia/rss2.xml"
+      }
+    },
+    {
+      "id": "saludiario",
+      "name": "Saludiario",
+      "countryID": "MX",
+      "topicFeeds": {
+        "Health": "https://www.saludiario.com/feed/"
+      }
+    },
+    {
+      "id": "record",
+      "name": "Record",
+      "countryID": "MX",
+      "topicFeeds": {
+        "Sports": "https://www.record.com.mx/rss"
+      }
+    },
+    {
+      "id": "sensacine_mexico",
+      "name": "SensaCine México",
+      "countryID": "MX",
+      "topicFeeds": {
+        "Entertainment": "https://www.sensacine.com.mx/rss/noticias.xml"
+      }
+    },
+    {
+      "id": "coolhuntermx",
+      "name": "Coolhunter MX",
+      "countryID": "MX",
+      "topicFeeds": {
+        "Lifestyle": "https://coolhuntermx.com/feed/"
+      }
+    },
+    {
+      "id": "mexicodesconocido",
+      "name": "México Desconocido",
+      "countryID": "MX",
+      "topicFeeds": {
+        "Travel": "https://www.mexicodesconocido.com.mx/feed"
+      }
+    },
+    {
+      "id": "xataka_gaming_mx",
+      "name": "Xataka México Gaming",
+      "countryID": "MX",
+      "topicFeeds": {
+        "Games": "https://www.xataka.com.mx/tag/videojuegos/rss2.xml"
+      }
+    },
+    {
+      "id": "elcomercio_pe",
+      "name": "El Comercio",
+      "countryID": "PE",
+      "topicFeeds": {
+        "General": "https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml"
+      }
+    },
+    {
+      "id": "larepublica_pe",
+      "name": "La República",
+      "countryID": "PE",
+      "topicFeeds": {
+        "General": "https://larepublica.pe/rss/politica.xml"
+      }
+    },
+    {
+      "id": "rpp_mundo",
+      "name": "RPP Mundo",
+      "countryID": "PE",
+      "topicFeeds": {
+        "World": "https://rpp.pe/rss"
+      }
+    },
+    {
+      "id": "rpp_politica",
+      "name": "RPP Política",
+      "countryID": "PE",
+      "topicFeeds": {
+        "Politics": "https://rpp.pe/rss"
+      }
+    },
+    {
+      "id": "gestion",
+      "name": "Gestión",
+      "countryID": "PE",
+      "topicFeeds": {
+        "Economy": "https://gestion.pe/arcio/rss/"
+      }
+    },
+    {
+      "id": "depor",
+      "name": "Depor",
+      "countryID": "PE",
+      "topicFeeds": {
+        "Sports": "https://depor.com/arcio/rss/"
+      }
+    },
+    {
+      "id": "cinencuentro",
+      "name": "Cinencuentro",
+      "countryID": "PE",
+      "topicFeeds": {
+        "Entertainment": "https://www.cinencuentro.com/feed/"
+      }
+    },
+    {
+      "id": "livinginperu",
+      "name": "Living in Peru",
+      "countryID": "PE",
+      "topicFeeds": {
+        "Lifestyle": "https://www.livinginperu.com/feed/"
+      }
+    },
+    {
+      "id": "peruhop",
+      "name": "Peru Hop",
+      "countryID": "PE",
+      "topicFeeds": {
+        "Travel": "https://www.peruhop.com/feed/"
+      }
+    },
+    {
+      "id": "masgamers",
+      "name": "MasGamers",
+      "countryID": "PE",
+      "topicFeeds": {
+        "Games": "https://www.masgamers.com/feed/"
+      }
+    },
+    {
+      "id": "publico",
+      "name": "Público",
+      "countryID": "PT",
+      "topicFeeds": {
+        "General": "https://feeds.feedburner.com/PublicoRSS"
+      }
+    },
+    {
+      "id": "observador",
+      "name": "Observador",
+      "countryID": "PT",
+      "topicFeeds": {
+        "General": "https://observador.pt/feed/"
+      }
+    },
+    {
+      "id": "rtp",
+      "name": "RTP Notícias",
+      "countryID": "PT",
+      "topicFeeds": {
+        "General": "https://www.rtp.pt/noticias/rss"
+      }
+    },
+    {
+      "id": "observador_mundo",
+      "name": "Observador Mundo",
+      "countryID": "PT",
+      "topicFeeds": {
+        "World": "https://observador.pt/seccao/mundo/feed/"
+      }
+    },
+    {
+      "id": "observador_politica",
+      "name": "Observador Política",
+      "countryID": "PT",
+      "topicFeeds": {
+        "Politics": "https://observador.pt/seccao/politica/feed/"
+      }
+    },
+    {
+      "id": "jornaldenegocios",
+      "name": "Jornal de Negócios",
+      "countryID": "PT",
+      "topicFeeds": {
+        "Economy": "https://www.jornaldenegocios.pt/rss"
+      }
+    },
+    {
+      "id": "pplware",
+      "name": "Pplware",
+      "countryID": "PT",
+      "topicFeeds": {
+        "Technology": "https://pplware.sapo.pt/feed/"
+      }
+    },
+    {
+      "id": "abola",
+      "name": "A Bola",
+      "countryID": "PT",
+      "topicFeeds": {
+        "Sports": "https://www.abola.pt/rss-articles.xml"
+      }
+    },
+    {
+      "id": "mag_sapo",
+      "name": "Mag SAPO",
+      "countryID": "PT",
+      "topicFeeds": {
+        "Entertainment": "https://mag.sapo.pt/rss"
+      }
+    },
+    {
+      "id": "trendypt",
+      "name": "Trendy",
+      "countryID": "PT",
+      "topicFeeds": {
+        "Lifestyle": "https://trendy.pt/feed/"
+      }
+    },
+    {
+      "id": "viagenssapo",
+      "name": "Viagens SAPO",
+      "countryID": "PT",
+      "topicFeeds": {
+        "Travel": "https://viagens.sapo.pt/feed"
+      }
+    },
+    {
+      "id": "eurogamerpt",
+      "name": "Eurogamer Portugal",
+      "countryID": "PT",
+      "topicFeeds": {
+        "Games": "https://www.eurogamer.pt/feed"
+      }
+    },
+    {
+      "id": "independent",
+      "name": "The Independent",
+      "countryID": "GB",
+      "topicFeeds": {
+        "General": "https://www.independent.co.uk/news/uk/rss"
+      }
+    },
+    {
+      "id": "skynews",
+      "name": "Sky News",
+      "countryID": "GB",
+      "topicFeeds": {
+        "General": "https://feeds.skynews.com/feeds/rss/home.xml"
+      }
+    },
+    {
+      "id": "bbc_world",
+      "name": "BBC World",
+      "countryID": "GB",
+      "topicFeeds": {
+        "World": "https://feeds.bbci.co.uk/news/world/rss.xml"
+      }
+    },
+    {
+      "id": "bbc",
+      "name": "BBC",
+      "countryID": "GB",
+      "topicFeeds": {
+        "Politics": "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "Economy": "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "Technology": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "Sports": "https://feeds.bbci.co.uk/sport/rss.xml",
+        "Health": "https://feeds.bbci.co.uk/news/health/rss.xml"
+      }
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian",
+      "countryID": "GB",
+      "topicFeeds": {
+        "Politics": "https://www.theguardian.com/politics/rss",
+        "Entertainment": "https://www.theguardian.com/film/rss",
+        "Games": "https://www.theguardian.com/games/rss"
+      }
+    },
+    {
+      "id": "politicscouk",
+      "name": "Politics.co.uk",
+      "countryID": "GB",
+      "topicFeeds": {
+        "Politics": "https://www.politics.co.uk/feed/"
+      }
+    },
+    {
+      "id": "ft",
+      "name": "Financial Times",
+      "countryID": "GB",
+      "topicFeeds": {
+        "Economy": "https://www.ft.com/rss/home"
+      }
+    },
+    {
+      "id": "theregister",
+      "name": "The Register",
+      "countryID": "GB",
+      "topicFeeds": {
+        "Technology": "https://www.theregister.com/headlines.atom"
+      }
+    },
+    {
+      "id": "skysports_gb",
+      "name": "Sky Sports",
+      "countryID": "GB",
+      "topicFeeds": {
+        "Sports": "https://www.skysports.com/rss/12040"
+      }
+    },
+    {
+      "id": "apetogentleman",
+      "name": "Ape To Gentleman",
+      "countryID": "GB",
+      "topicFeeds": {
+        "Lifestyle": "https://apetogentleman.com/feed/"
+      }
+    },
+    {
+      "id": "wanderlust",
+      "name": "Wanderlust",
+      "countryID": "GB",
+      "topicFeeds": {
+        "Travel": "https://www.wanderlustmagazine.com/feed/"
+      }
+    },
+    {
+      "id": "eurogamer",
+      "name": "Eurogamer",
+      "countryID": "GB",
+      "topicFeeds": {
+        "Games": "https://www.eurogamer.net/feed"
+      }
+    },
+    {
+      "id": "rt",
+      "name": "RT",
+      "countryID": "RU",
+      "topicFeeds": {
+        "General": "https://www.rt.com/rss/"
+      }
+    },
+    {
+      "id": "tass",
+      "name": "TASS",
+      "countryID": "RU",
+      "topicFeeds": {
+        "General": "https://tass.com/rss/v2.xml"
+      }
+    },
+    {
+      "id": "themoscowtimes",
+      "name": "The Moscow Times",
+      "countryID": "RU",
+      "topicFeeds": {
+        "General": "https://www.themoscowtimes.com/rss/news"
+      }
+    },
+    {
+      "id": "sputnik",
+      "name": "Sputnik",
+      "countryID": "RU",
+      "topicFeeds": {
+        "General": "https://sputnikglobe.com/export/rss2/archive/index.xml"
+      }
+    },
+    {
+      "id": "rt_world",
+      "name": "RT World",
+      "countryID": "RU",
+      "topicFeeds": {
+        "World": "https://www.rt.com/rss/news/"
+      }
+    },
+    {
+      "id": "vedomosti_politics",
+      "name": "Vedomosti Politics",
+      "countryID": "RU",
+      "topicFeeds": {
+        "Politics": "https://www.vedomosti.ru/rss/rubric/politics"
+      }
+    },
+    {
+      "id": "vedomosti",
+      "name": "Vedomosti",
+      "countryID": "RU",
+      "topicFeeds": {
+        "Economy": "https://www.vedomosti.ru/rss/news"
+      }
+    },
+    {
+      "id": "habr",
+      "name": "Habr",
+      "countryID": "RU",
+      "topicFeeds": {
+        "Technology": "https://habr.com/en/rss/articles/"
+      }
+    },
+    {
+      "id": "medportal",
+      "name": "MedPortal",
+      "countryID": "RU",
+      "topicFeeds": {
+        "Health": "https://medportal.ru/mednovosti.rss"
+      }
+    },
+    {
+      "id": "russianartculture",
+      "name": "Russian Art & Culture",
+      "countryID": "RU",
+      "topicFeeds": {
+        "Lifestyle": "https://www.russianartandculture.com/feed/"
+      }
+    },
+    {
+      "id": "russiabeyond",
+      "name": "Russia Beyond",
+      "countryID": "RU",
+      "topicFeeds": {
+        "Travel": "https://www.rbth.com/rss"
+      }
+    },
+    {
+      "id": "dtf",
+      "name": "DTF Games",
+      "countryID": "RU",
+      "topicFeeds": {
+        "Games": "https://dtf.ru/rss/"
+      }
+    },
+    {
+      "id": "straitstimes",
+      "name": "The Straits Times",
+      "countryID": "SG",
+      "topicFeeds": {
+        "General": "https://www.straitstimes.com/news/singapore/rss.xml"
+      }
+    },
+    {
+      "id": "cna",
+      "name": "Channel NewsAsia",
+      "countryID": "SG",
+      "topicFeeds": {
+        "General": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"
+      }
+    },
+    {
+      "id": "straitstimes_world",
+      "name": "The Straits Times World",
+      "countryID": "SG",
+      "topicFeeds": {
+        "World": "https://www.straitstimes.com/news/world/rss.xml"
+      }
+    },
+    {
+      "id": "straitstimes_politics",
+      "name": "The Straits Times Politics",
+      "countryID": "SG",
+      "topicFeeds": {
+        "Politics": "https://www.straitstimes.com/rss.xml"
+      }
+    },
+    {
+      "id": "businesstimes",
+      "name": "The Business Times",
+      "countryID": "SG",
+      "topicFeeds": {
+        "Economy": "https://www.businesstimes.com.sg/rss.xml"
+      }
+    },
+    {
+      "id": "cna_health",
+      "name": "CNA Health",
+      "countryID": "SG",
+      "topicFeeds": {
+        "Health": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"
+      }
+    },
+    {
+      "id": "straitstimessport",
+      "name": "The Straits Times Sport",
+      "countryID": "SG",
+      "topicFeeds": {
+        "Sports": "https://www.straitstimes.com/news/sport/rss.xml"
+      }
+    },
+    {
+      "id": "8days",
+      "name": "8days",
+      "countryID": "SG",
+      "topicFeeds": {
+        "Entertainment": "https://www.8days.sg/api/v1/rss-outbound-feed?_format=xml&category=26281"
+      }
+    },
+    {
+      "id": "cna_lifestyle",
+      "name": "CNA Lifestyle",
+      "countryID": "SG",
+      "topicFeeds": {
+        "Entertainment": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"
+      }
+    },
+    {
+      "id": "thesmartlocal",
+      "name": "The Smart Local",
+      "countryID": "SG",
+      "topicFeeds": {
+        "Lifestyle": "https://thesmartlocal.com/feed/"
+      }
+    },
+    {
+      "id": "ladyironchef",
+      "name": "Ladyironchef",
+      "countryID": "SG",
+      "topicFeeds": {
+        "Travel": "https://www.ladyironchef.com/feed/"
+      }
+    },
+    {
+      "id": "gameshub",
+      "name": "GamesHub",
+      "countryID": "SG",
+      "topicFeeds": {
+        "Games": "https://www.gameshub.com/feed/"
+      }
+    },
+    {
+      "id": "nzz",
+      "name": "Neue Zürcher Zeitung",
+      "countryID": "CH",
+      "topicFeeds": {
+        "General": "https://www.nzz.ch/recent.rss"
+      }
+    },
+    {
+      "id": "letemps",
+      "name": "Le Temps",
+      "countryID": "CH",
+      "topicFeeds": {
+        "General": "https://www.letemps.ch/articles.rss"
+      }
+    },
+    {
+      "id": "finews",
+      "name": "Finews",
+      "countryID": "CH",
+      "topicFeeds": {
+        "Economy": "https://www.finews.com/news/english-news?format=feed&type=rss"
+      }
+    },
+    {
+      "id": "insideit",
+      "name": "Inside IT",
+      "countryID": "CH",
+      "topicFeeds": {
+        "Technology": "https://www.inside-it.ch/rss.xml"
+      }
+    },
+    {
+      "id": "blicksport",
+      "name": "Blick Sport",
+      "countryID": "CH",
+      "topicFeeds": {
+        "Sports": "https://www.blick.ch/sport/rss"
+      }
+    },
+    {
+      "id": "swissglam",
+      "name": "SwissGlam",
+      "countryID": "CH",
+      "topicFeeds": {
+        "Lifestyle": "https://www.swissglam.ch/feed/"
+      }
+    },
+    {
+      "id": "newlyswissed",
+      "name": "Newly Swissed",
+      "countryID": "CH",
+      "topicFeeds": {
+        "Travel": "https://www.newlyswissed.com/feed/"
+      }
+    },
+    {
+      "id": "gamesch",
+      "name": "Games.ch",
+      "countryID": "CH",
+      "topicFeeds": {
+        "Games": "https://www.games.ch/rss.xml"
+      }
+    },
+    {
+      "id": "dailysabah",
+      "name": "Daily Sabah",
+      "countryID": "TR",
+      "topicFeeds": {
+        "General": "https://www.dailysabah.com/rssFeed/home"
+      }
+    },
+    {
+      "id": "trtworld",
+      "name": "TRT World",
+      "countryID": "TR",
+      "topicFeeds": {
+        "World": "https://www.trtworld.com/feed/rss.xml"
+      }
+    },
+    {
+      "id": "trtworld_turkiye",
+      "name": "TRT World Türkiye",
+      "countryID": "TR",
+      "topicFeeds": {
+        "Politics": "https://www.trtworld.com/feed/rss.xml"
+      }
+    },
+    {
+      "id": "dunya",
+      "name": "Dünya",
+      "countryID": "TR",
+      "topicFeeds": {
+        "Economy": "https://www.dunya.com/rss"
+      }
+    },
+    {
+      "id": "webrazzi",
+      "name": "Webrazzi",
+      "countryID": "TR",
+      "topicFeeds": {
+        "Technology": "https://webrazzi.com/feed/"
+      }
+    },
+    {
+      "id": "fotomac",
+      "name": "Fotomaç",
+      "countryID": "TR",
+      "topicFeeds": {
+        "Sports": "https://www.fotomac.com.tr/rss/anasayfa.xml"
+      }
+    },
+    {
+      "id": "beyazperde",
+      "name": "Beyazperde",
+      "countryID": "TR",
+      "topicFeeds": {
+        "Entertainment": "https://www.beyazperde.com/rss/haberler.xml"
+      }
+    },
+    {
+      "id": "theguideistanbul",
+      "name": "The Guide Istanbul",
+      "countryID": "TR",
+      "topicFeeds": {
+        "Lifestyle": "https://www.theguideistanbul.com/rss.xml"
+      }
+    },
+    {
+      "id": "theturkeytraveler",
+      "name": "The Turkey Traveler",
+      "countryID": "TR",
+      "topicFeeds": {
+        "Travel": "https://theturkeytraveler.com/feed/"
+      }
+    },
+    {
+      "id": "gamereactor_tr",
+      "name": "Gamereactor Türkiye",
+      "countryID": "TR",
+      "topicFeeds": {
+        "Games": "https://www.gamereactor.com.tr/rss/rss.php"
+      }
+    }
+  ]
+}
