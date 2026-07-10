@@ -332,7 +332,7 @@
     },
     {
       "id": "jovempan",
-      "name": "Jovem Pan NewsBR",
+      "name": "Jovem Pan News",
       "countryID": "BR",
       "topicFeeds": {
         "General": "https://jovempan.com.br/feed"
