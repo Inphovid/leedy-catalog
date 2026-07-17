@@ -1726,14 +1726,6 @@
     },
     {
       "countryID" : "FR",
-      "id" : "thegoodlifefrance",
-      "name" : "The Good Life France",
-      "topicFeeds" : {
-        "General" : "https://thegoodlifefrance.com/feed"
-      }
-    },
-    {
-      "countryID" : "FR",
       "id" : "lemonde_international",
       "name" : "Le Monde International",
       "topicFeeds" : {
@@ -1795,6 +1787,14 @@
       "name" : "Milk Magazine",
       "topicFeeds" : {
         "Lifestyle" : "https://www.milkmagazine.net/feed/"
+      }
+    },
+    {
+      "countryID" : "FR",
+      "id" : "thegoodlifefrance",
+      "name" : "The Good Life France",
+      "topicFeeds" : {
+        "Travel" : "https://thegoodlifefrance.com/feed"
       }
     },
     {
@@ -3093,5 +3093,5 @@
     }
   ],
   "updatedAt" : "2026-07-17",
-  "version" : 3
+  "version" : 4
 }
