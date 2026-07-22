@@ -10,18 +10,18 @@
     },
     {
       "countryID" : "DE",
-      "id" : "faz",
-      "name" : "FAZ",
-      "topicFeeds" : {
-        "General" : "https://www.faz.net/rss/aktuell/"
-      }
-    },
-    {
-      "countryID" : "DE",
       "id" : "dw_de",
       "name" : "Deutsche Welle",
       "topicFeeds" : {
         "General" : "https://rss.dw.com/xml/rss-de-all"
+      }
+    },
+    {
+      "countryID" : "DE",
+      "id" : "faz",
+      "name" : "FAZ",
+      "topicFeeds" : {
+        "General" : "https://www.faz.net/rss/aktuell/"
       }
     },
     {
@@ -133,7 +133,7 @@
       "id" : "lanacion_world",
       "name" : "La Nación Mundo",
       "topicFeeds" : {
-        "World" : "https://www.lanacion.com.ar/arcio/rss/category/el-mundo/"
+        "World" : "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/el-mundo/?outputType=xml"
       }
     },
     {
@@ -218,18 +218,18 @@
     },
     {
       "countryID" : "AU",
-      "id" : "smh",
-      "name" : "The Sydney Morning Herald",
-      "topicFeeds" : {
-        "General" : "https://www.smh.com.au/rss/feed.xml"
-      }
-    },
-    {
-      "countryID" : "AU",
       "id" : "theage",
       "name" : "The Age",
       "topicFeeds" : {
         "General" : "https://www.theage.com.au/rss/feed.xml"
+      }
+    },
+    {
+      "countryID" : "AU",
+      "id" : "smh",
+      "name" : "The Sydney Morning Herald",
+      "topicFeeds" : {
+        "General" : "https://www.smh.com.au/rss/feed.xml"
       }
     },
     {
@@ -314,18 +314,18 @@
     },
     {
       "countryID" : "BR",
-      "id" : "revistaoeste",
-      "name" : "Revista Oeste",
-      "topicFeeds" : {
-        "General" : "https://revistaoeste.com/feed/"
-      }
-    },
-    {
-      "countryID" : "BR",
       "id" : "jovempan",
       "name" : "Jovem Pan News",
       "topicFeeds" : {
         "General" : "https://jovempan.com.br/feed"
+      }
+    },
+    {
+      "countryID" : "BR",
+      "id" : "revistaoeste",
+      "name" : "Revista Oeste",
+      "topicFeeds" : {
+        "General" : "https://revistaoeste.com/feed/"
       }
     },
     {
@@ -338,10 +338,26 @@
     },
     {
       "countryID" : "BR",
+      "id" : "folhamundo",
+      "name" : "Folha Mundo",
+      "topicFeeds" : {
+        "World" : "https://feeds.folha.uol.com.br/mundo/rss091.xml"
+      }
+    },
+    {
+      "countryID" : "BR",
       "id" : "g1mundo",
       "name" : "G1 Mundo",
       "topicFeeds" : {
         "World" : "https://g1.globo.com/rss/g1/mundo/"
+      }
+    },
+    {
+      "countryID" : "BR",
+      "id" : "rfi",
+      "name" : "RFI Brasil",
+      "topicFeeds" : {
+        "World" : "https://www.rfi.fr/br/rss"
       }
     },
     {
@@ -354,18 +370,26 @@
     },
     {
       "countryID" : "BR",
-      "id" : "folhamundo",
-      "name" : "Folha Mundo",
+      "id" : "conexaopolitica",
+      "name" : "Conexão Política",
       "topicFeeds" : {
-        "World" : "https://feeds.folha.uol.com.br/mundo/rss091.xml"
+        "Politics" : "https://www.conexaopolitica.com.br/feed/"
       }
     },
     {
       "countryID" : "BR",
-      "id" : "rfi",
-      "name" : "RFI Brasil",
+      "id" : "congressoemfoco",
+      "name" : "Congresso em Foco",
       "topicFeeds" : {
-        "World" : "https://www.rfi.fr/br/rss"
+        "Politics" : "https://congressoemfoco.uol.com.br/feed/"
+      }
+    },
+    {
+      "countryID" : "BR",
+      "id" : "diariodopoder",
+      "name" : "Diário do Poder",
+      "topicFeeds" : {
+        "Politics" : "https://diariodopoder.com.br/feed"
       }
     },
     {
@@ -382,42 +406,10 @@
     },
     {
       "countryID" : "BR",
-      "id" : "poder360",
-      "name" : "Poder360",
-      "topicFeeds" : {
-        "Politics" : "https://www.poder360.com.br/feed/"
-      }
-    },
-    {
-      "countryID" : "BR",
-      "id" : "diariodopoder",
-      "name" : "Diário do Poder",
-      "topicFeeds" : {
-        "Politics" : "https://diariodopoder.com.br/feed"
-      }
-    },
-    {
-      "countryID" : "BR",
-      "id" : "conexaopolitica",
-      "name" : "Conexão Política",
-      "topicFeeds" : {
-        "Politics" : "https://www.conexaopolitica.com.br/feed/"
-      }
-    },
-    {
-      "countryID" : "BR",
       "id" : "institutoliberal",
       "name" : "Instituto Liberal",
       "topicFeeds" : {
         "Politics" : "https://www.institutoliberal.org.br/feed/"
-      }
-    },
-    {
-      "countryID" : "BR",
-      "id" : "congressoemfoco",
-      "name" : "Congresso em Foco",
-      "topicFeeds" : {
-        "Politics" : "https://congressoemfoco.uol.com.br/feed/"
       }
     },
     {
@@ -430,18 +422,18 @@
     },
     {
       "countryID" : "BR",
-      "id" : "jovempanpolitica",
-      "name" : "Jovem Pan Política",
+      "id" : "poder360",
+      "name" : "Poder360",
       "topicFeeds" : {
-        "Politics" : "https://jovempan.com.br/feed"
+        "Politics" : "https://www.poder360.com.br/feed/"
       }
     },
     {
       "countryID" : "BR",
-      "id" : "infomoney",
-      "name" : "InfoMoney",
+      "id" : "capitalist",
+      "name" : "Capitalist",
       "topicFeeds" : {
-        "Economy" : "https://www.infomoney.com.br/feed/"
+        "Economy" : "https://capitalist.com.br/feed/"
       }
     },
     {
@@ -454,10 +446,10 @@
     },
     {
       "countryID" : "BR",
-      "id" : "moneytimes",
-      "name" : "Money Times",
+      "id" : "infomoney",
+      "name" : "InfoMoney",
       "topicFeeds" : {
-        "Economy" : "https://www.moneytimes.com.br/feed/"
+        "Economy" : "https://www.infomoney.com.br/feed/"
       }
     },
     {
@@ -470,6 +462,14 @@
     },
     {
       "countryID" : "BR",
+      "id" : "moneytimes",
+      "name" : "Money Times",
+      "topicFeeds" : {
+        "Economy" : "https://www.moneytimes.com.br/feed/"
+      }
+    },
+    {
+      "countryID" : "BR",
       "id" : "seudinheiro",
       "name" : "Seu Dinheiro",
       "topicFeeds" : {
@@ -478,10 +478,50 @@
     },
     {
       "countryID" : "BR",
-      "id" : "capitalist",
-      "name" : "Capitalist",
+      "id" : "adrenaline_tech",
+      "name" : "Adrenaline",
       "topicFeeds" : {
-        "Economy" : "https://capitalist.com.br/feed/"
+        "Technology" : "https://www.adrenaline.com.br/feed/"
+      }
+    },
+    {
+      "countryID" : "BR",
+      "id" : "canaltech",
+      "name" : "Canaltech",
+      "topicFeeds" : {
+        "Technology" : "https://feeds.feedburner.com/canaltechbr"
+      }
+    },
+    {
+      "countryID" : "BR",
+      "id" : "diolinux",
+      "name" : "Diolinux",
+      "topicFeeds" : {
+        "Technology" : "https://diolinux.com.br/feed"
+      }
+    },
+    {
+      "countryID" : "BR",
+      "id" : "macmagazine",
+      "name" : "Mac Magazine",
+      "topicFeeds" : {
+        "Technology" : "https://macmagazine.com.br/feed"
+      }
+    },
+    {
+      "countryID" : "BR",
+      "id" : "manualdousuario",
+      "name" : "Manual do Usuário",
+      "topicFeeds" : {
+        "Technology" : "https://manualdousuario.net/feed/"
+      }
+    },
+    {
+      "countryID" : "BR",
+      "id" : "meiobit",
+      "name" : "Meio Bit",
+      "topicFeeds" : {
+        "Technology" : "https://meiobit.com/feed/"
       }
     },
     {
@@ -502,66 +542,10 @@
     },
     {
       "countryID" : "BR",
-      "id" : "canaltech",
-      "name" : "Canaltech",
+      "id" : "portalped",
+      "name" : "PortalPed",
       "topicFeeds" : {
-        "Technology" : "https://feeds.feedburner.com/canaltechbr"
-      }
-    },
-    {
-      "countryID" : "BR",
-      "id" : "meiobit",
-      "name" : "Meio Bit",
-      "topicFeeds" : {
-        "Technology" : "https://meiobit.com/feed/"
-      }
-    },
-    {
-      "countryID" : "BR",
-      "id" : "manualdousuario",
-      "name" : "Manual do Usuário",
-      "topicFeeds" : {
-        "Technology" : "https://manualdousuario.net/feed/"
-      }
-    },
-    {
-      "countryID" : "BR",
-      "id" : "macmagazine",
-      "name" : "Mac Magazine",
-      "topicFeeds" : {
-        "Technology" : "https://macmagazine.com.br/feed"
-      }
-    },
-    {
-      "countryID" : "BR",
-      "id" : "adrenaline_games",
-      "name" : "Adrenaline",
-      "topicFeeds" : {
-        "Technology" : "https://www.adrenaline.com.br/feed/"
-      }
-    },
-    {
-      "countryID" : "BR",
-      "id" : "diolinux",
-      "name" : "Diolinux",
-      "topicFeeds" : {
-        "Technology" : "https://diolinux.com.br/feed"
-      }
-    },
-    {
-      "countryID" : "BR",
-      "id" : "vejasaude",
-      "name" : "Veja Saúde",
-      "topicFeeds" : {
-        "Health" : "https://saude.abril.com.br/feed/"
-      }
-    },
-    {
-      "countryID" : "BR",
-      "id" : "tuasaude",
-      "name" : "Tua Saúde",
-      "topicFeeds" : {
-        "Health" : "https://www.tuasaude.com/feed/"
+        "Health" : "https://portalped.com.br/feed/"
       }
     },
     {
@@ -574,18 +558,18 @@
     },
     {
       "countryID" : "BR",
-      "id" : "portalped",
-      "name" : "PortalPed",
+      "id" : "tuasaude",
+      "name" : "Tua Saúde",
       "topicFeeds" : {
-        "Health" : "https://portalped.com.br/feed/"
+        "Health" : "https://www.tuasaude.com/feed/"
       }
     },
     {
       "countryID" : "BR",
-      "id" : "ge",
-      "name" : "ge",
+      "id" : "vejasaude",
+      "name" : "Veja Saúde",
       "topicFeeds" : {
-        "Sports" : "https://ge.globo.com/rss/ge"
+        "Health" : "https://saude.abril.com.br/feed/"
       }
     },
     {
@@ -598,10 +582,10 @@
     },
     {
       "countryID" : "BR",
-      "id" : "torcedores",
-      "name" : "Torcedores.com",
+      "id" : "ge",
+      "name" : "ge",
       "topicFeeds" : {
-        "Sports" : "https://www.torcedores.com/feed"
+        "Sports" : "https://ge.globo.com/rss/ge"
       }
     },
     {
@@ -614,14 +598,6 @@
     },
     {
       "countryID" : "BR",
-      "id" : "trivela",
-      "name" : "Trivela",
-      "topicFeeds" : {
-        "Sports" : "https://trivela.com.br/feed/"
-      }
-    },
-    {
-      "countryID" : "BR",
       "id" : "surtoolimpico",
       "name" : "Surto Olímpico",
       "topicFeeds" : {
@@ -630,10 +606,18 @@
     },
     {
       "countryID" : "BR",
-      "id" : "observatoriodocinema",
-      "name" : "Observatório do Cinema",
+      "id" : "torcedores",
+      "name" : "Torcedores.com",
       "topicFeeds" : {
-        "Entertainment" : "https://observatoriodocinema.com.br/web-stories/feed/"
+        "Sports" : "https://www.torcedores.com/feed"
+      }
+    },
+    {
+      "countryID" : "BR",
+      "id" : "trivela",
+      "name" : "Trivela",
+      "topicFeeds" : {
+        "Sports" : "https://trivela.com.br/feed/"
       }
     },
     {
@@ -646,10 +630,10 @@
     },
     {
       "countryID" : "BR",
-      "id" : "stealthelook",
-      "name" : "STEAL THE LOOK",
+      "id" : "observatoriodocinema",
+      "name" : "Observatório do Cinema",
       "topicFeeds" : {
-        "Lifestyle" : "https://stealthelook.com.br/feed/"
+        "Entertainment" : "https://observatoriodocinema.com.br/web-stories/feed/"
       }
     },
     {
@@ -662,14 +646,6 @@
     },
     {
       "countryID" : "BR",
-      "id" : "thesummerhunter",
-      "name" : "The Summer Hunter",
-      "topicFeeds" : {
-        "Lifestyle" : "https://thesummerhunter.com/feed"
-      }
-    },
-    {
-      "countryID" : "BR",
       "id" : "fitfeed",
       "name" : "FitFeed",
       "topicFeeds" : {
@@ -678,10 +654,18 @@
     },
     {
       "countryID" : "BR",
-      "id" : "melhoresdestinos",
-      "name" : "Melhores Destinos",
+      "id" : "stealthelook",
+      "name" : "STEAL THE LOOK",
       "topicFeeds" : {
-        "Travel" : "https://www.melhoresdestinos.com.br/feed"
+        "Lifestyle" : "https://stealthelook.com.br/feed/"
+      }
+    },
+    {
+      "countryID" : "BR",
+      "id" : "thesummerhunter",
+      "name" : "The Summer Hunter",
+      "topicFeeds" : {
+        "Lifestyle" : "https://thesummerhunter.com/feed"
       }
     },
     {
@@ -694,18 +678,26 @@
     },
     {
       "countryID" : "BR",
-      "id" : "ignbrasil",
-      "name" : "IGN Brasil",
+      "id" : "melhoresdestinos",
+      "name" : "Melhores Destinos",
       "topicFeeds" : {
-        "Games" : "https://br.ign.com/feed.xml"
+        "Travel" : "https://www.melhoresdestinos.com.br/feed"
       }
     },
     {
       "countryID" : "BR",
-      "id" : "adrenaline",
+      "id" : "adrenaline_games",
       "name" : "Adrenaline",
       "topicFeeds" : {
-        "Games" : "https://www.adrenaline.com.br/feed/"
+        "Games" : "https://www.adrenaline.com.br/games/feed/"
+      }
+    },
+    {
+      "countryID" : "BR",
+      "id" : "canaltechgames",
+      "name" : "Canaltech Games",
+      "topicFeeds" : {
+        "Games" : "https://canaltech.com.br/rss/games/"
       }
     },
     {
@@ -718,10 +710,10 @@
     },
     {
       "countryID" : "BR",
-      "id" : "canaltechgames",
-      "name" : "Canaltech Games",
+      "id" : "ignbrasil",
+      "name" : "IGN Brasil",
       "topicFeeds" : {
-        "Games" : "https://canaltech.com.br/rss/games/"
+        "Games" : "https://br.ign.com/feed.xml"
       }
     },
     {
@@ -790,18 +782,18 @@
     },
     {
       "countryID" : "CA",
-      "id" : "the_gate",
-      "name" : "The Gate",
-      "topicFeeds" : {
-        "Entertainment" : "https://www.thegate.ca/feed/"
-      }
-    },
-    {
-      "countryID" : "CA",
       "id" : "screenrant",
       "name" : "Screen Rant",
       "topicFeeds" : {
         "Entertainment" : "https://screenrant.com/feed/"
+      }
+    },
+    {
+      "countryID" : "CA",
+      "id" : "the_gate",
+      "name" : "The Gate",
+      "topicFeeds" : {
+        "Entertainment" : "https://www.thegate.ca/feed/"
       }
     },
     {
@@ -833,23 +825,15 @@
       "id" : "latercera",
       "name" : "La Tercera",
       "topicFeeds" : {
-        "General" : "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml"
+        "General" : "https://www.latercera.com/rss"
       }
     },
     {
       "countryID" : "CL",
-      "id" : "latercera_mundo",
-      "name" : "La Tercera Mundo",
+      "id" : "latercera_world",
+      "name" : "La Tercera",
       "topicFeeds" : {
-        "World" : "https://www.latercera.com/arc/outboundfeeds/rss/category/mundo/?outputType=xml"
-      }
-    },
-    {
-      "countryID" : "CL",
-      "id" : "latercera_politica",
-      "name" : "La Tercera Política",
-      "topicFeeds" : {
-        "Politics" : "https://www.latercera.com/rss"
+        "World" : "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml"
       }
     },
     {
@@ -862,26 +846,10 @@
     },
     {
       "countryID" : "CL",
-      "id" : "latercera_quepasa",
-      "name" : "La Tercera Que Pasa",
-      "topicFeeds" : {
-        "Health" : "https://www.latercera.com/rss"
-      }
-    },
-    {
-      "countryID" : "CL",
       "id" : "redgol",
       "name" : "RedGol",
       "topicFeeds" : {
         "Sports" : "https://redgol.cl/rss/feed"
-      }
-    },
-    {
-      "countryID" : "CL",
-      "id" : "culto",
-      "name" : "Culto",
-      "topicFeeds" : {
-        "Entertainment" : "https://www.latercera.com/rss"
       }
     },
     {
@@ -902,18 +870,18 @@
     },
     {
       "countryID" : "CL",
-      "id" : "trekkingchile",
-      "name" : "TrekkingChile",
-      "topicFeeds" : {
-        "Travel" : "https://www.trekkingchile.com/en/category/blog/feed/"
-      }
-    },
-    {
-      "countryID" : "CL",
       "id" : "ecochile",
       "name" : "EcoChile Travel",
       "topicFeeds" : {
         "Travel" : "https://ecochile.travel/feed/"
+      }
+    },
+    {
+      "countryID" : "CL",
+      "id" : "trekkingchile",
+      "name" : "TrekkingChile",
+      "topicFeeds" : {
+        "Travel" : "https://www.trekkingchile.com/en/category/blog/feed/"
       }
     },
     {
@@ -926,18 +894,16 @@
     },
     {
       "countryID" : "CN",
-      "id" : "xinhua",
-      "name" : "Xinhua",
+      "id" : "cgtn",
+      "name" : "CGTN",
       "topicFeeds" : {
-        "General" : "https://www.xinhuanet.com/english/rss/worldrss.xml"
-      }
-    },
-    {
-      "countryID" : "CN",
-      "id" : "globaltimes",
-      "name" : "Global Times",
-      "topicFeeds" : {
-        "General" : "https://www.globaltimes.cn/rss/outbrain.xml"
+        "Economy" : "https://www.cgtn.com/subscribe/rss/section/business.xml",
+        "Entertainment" : "https://www.cgtn.com/subscribe/rss/section/culture.xml",
+        "General" : "https://www.cgtn.com/subscribe/rss/section/china.xml",
+        "Politics" : "https://www.cgtn.com/subscribe/rss/section/politics.xml",
+        "Sports" : "https://www.cgtn.com/subscribe/rss/section/sports.xml",
+        "Travel" : "https://www.cgtn.com/subscribe/rss/section/travel.xml",
+        "World" : "https://www.cgtn.com/subscribe/rss/section/world.xml"
       }
     },
     {
@@ -950,18 +916,26 @@
     },
     {
       "countryID" : "CN",
-      "id" : "chinadaily_world",
-      "name" : "China Daily World",
+      "id" : "globaltimes",
+      "name" : "Global Times",
       "topicFeeds" : {
-        "World" : "https://www.chinadaily.com.cn/rss/world_rss.xml"
+        "General" : "https://www.globaltimes.cn/rss/outbrain.xml"
       }
     },
     {
       "countryID" : "CN",
-      "id" : "globaltimes_china",
-      "name" : "Global Times China",
+      "id" : "xinhua",
+      "name" : "Xinhua",
       "topicFeeds" : {
-        "Politics" : "https://www.globaltimes.cn/rss/outbrain.xml"
+        "General" : "https://www.xinhuanet.com/english/rss/worldrss.xml"
+      }
+    },
+    {
+      "countryID" : "CN",
+      "id" : "chinadaily_world",
+      "name" : "China Daily World",
+      "topicFeeds" : {
+        "World" : "https://www.chinadaily.com.cn/rss/world_rss.xml"
       }
     },
     {
@@ -978,14 +952,6 @@
       "name" : "TechNode",
       "topicFeeds" : {
         "Technology" : "https://technode.com/feed/"
-      }
-    },
-    {
-      "countryID" : "CN",
-      "id" : "cgtnsports",
-      "name" : "CGTN Sports",
-      "topicFeeds" : {
-        "Sports" : "https://www.cgtn.com/subscribe/rss/section/sports.xml"
       }
     },
     {
@@ -1022,18 +988,20 @@
     },
     {
       "countryID" : "KR",
-      "id" : "yonhap",
-      "name" : "Yonhap News",
+      "id" : "koreatimes",
+      "name" : "The Korea Times",
       "topicFeeds" : {
-        "General" : "https://en.yna.co.kr/RSS/news.xml"
+        "Entertainment" : "https://feed.koreatimes.co.kr/k/entertainment.xml",
+        "General" : "https://feed.koreatimes.co.kr/k/allnews.xml",
+        "Lifestyle" : "https://feed.koreatimes.co.kr/k/lifestyle.xml"
       }
     },
     {
       "countryID" : "KR",
-      "id" : "koreatimes",
-      "name" : "The Korea Times",
+      "id" : "yonhap",
+      "name" : "Yonhap News",
       "topicFeeds" : {
-        "General" : "https://feed.koreatimes.co.kr/k/allnews.xml"
+        "General" : "https://en.yna.co.kr/RSS/news.xml"
       }
     },
     {
@@ -1078,26 +1046,10 @@
     },
     {
       "countryID" : "KR",
-      "id" : "koreatimesculture",
-      "name" : "The Korea Times Culture",
-      "topicFeeds" : {
-        "Entertainment" : "https://www.koreatimes.co.kr/www/rss/rss.xml"
-      }
-    },
-    {
-      "countryID" : "KR",
       "id" : "hapskorea",
       "name" : "Haps Magazine Korea",
       "topicFeeds" : {
         "Lifestyle" : "https://hapskorea.com/feed/"
-      }
-    },
-    {
-      "countryID" : "KR",
-      "id" : "koreatimestravel",
-      "name" : "The Korea Times Travel",
-      "topicFeeds" : {
-        "Travel" : "https://www.koreatimes.co.kr/www/rss/rss.xml"
       }
     },
     {
@@ -1118,10 +1070,18 @@
     },
     {
       "countryID" : "EG",
-      "id" : "enterprise_tech",
-      "name" : "Enterprise",
+      "id" : "egyptindependent_world",
+      "name" : "Egypt Independent",
       "topicFeeds" : {
-        "Economy" : "https://enterprise.news/feed/"
+        "World" : "https://www.egyptindependent.com/category/world/feed/"
+      }
+    },
+    {
+      "countryID" : "EG",
+      "id" : "egyptindependent_business",
+      "name" : "Egypt Independent",
+      "topicFeeds" : {
+        "Economy" : "https://www.egyptindependent.com/category/business/feed/"
       }
     },
     {
@@ -1142,18 +1102,18 @@
     },
     {
       "countryID" : "EG",
-      "id" : "nilesports",
-      "name" : "Nile Sports",
-      "topicFeeds" : {
-        "Sports" : "https://nilesports.com/feed/"
-      }
-    },
-    {
-      "countryID" : "EG",
       "id" : "dailynewsegypt_sports",
       "name" : "Daily News Egypt Sports",
       "topicFeeds" : {
         "Sports" : "https://www.dailynewsegypt.com/category/sports/feed/"
+      }
+    },
+    {
+      "countryID" : "EG",
+      "id" : "nilesports",
+      "name" : "Nile Sports",
+      "topicFeeds" : {
+        "Sports" : "https://nilesports.com/feed/"
       }
     },
     {
@@ -1166,10 +1126,10 @@
     },
     {
       "countryID" : "EG",
-      "id" : "scoopempire",
-      "name" : "Scoop Empire",
+      "id" : "egyptindependent_life_style",
+      "name" : "Egypt Independent",
       "topicFeeds" : {
-        "Lifestyle" : "https://scoopempire.com/feed/"
+        "Lifestyle" : "https://www.egyptindependent.com/category/life_style/feed/"
       }
     },
     {
@@ -1263,10 +1223,10 @@
     },
     {
       "countryID" : "ES",
-      "id" : "spainbuddy",
-      "name" : "Spain Buddy",
+      "id" : "espanafascinante",
+      "name" : "España Fascinante",
       "topicFeeds" : {
-        "Travel" : "https://www.spainbuddy.com/"
+        "Travel" : "https://www.espanafascinante.com/rss/"
       }
     },
     {
@@ -1358,14 +1318,6 @@
     },
     {
       "countryID" : "US",
-      "id" : "cnbc",
-      "name" : "CNBC",
-      "topicFeeds" : {
-        "Economy" : "https://www.cnbc.com/id/100003114/device/rss/rss.html"
-      }
-    },
-    {
-      "countryID" : "US",
       "id" : "bloomberg",
       "name" : "Bloomberg Economics",
       "topicFeeds" : {
@@ -1374,26 +1326,26 @@
     },
     {
       "countryID" : "US",
-      "id" : "sciencedaily",
-      "name" : "ScienceDaily",
+      "id" : "cnbc",
+      "name" : "CNBC",
       "topicFeeds" : {
-        "Technology" : "https://www.sciencedaily.com/rss/strange_offbeat.xml"
+        "Economy" : "https://www.cnbc.com/id/100003114/device/rss/rss.html"
       }
     },
     {
       "countryID" : "US",
-      "id" : "techcrunch",
-      "name" : "TechCrunch",
+      "id" : "9to5mac",
+      "name" : "9to5mac",
       "topicFeeds" : {
-        "Technology" : "https://techcrunch.com/feed/"
+        "Technology" : "https://9to5mac.com/feed/"
       }
     },
     {
       "countryID" : "US",
-      "id" : "theverge",
-      "name" : "The Verge",
+      "id" : "apple",
+      "name" : "Apple Newsroom",
       "topicFeeds" : {
-        "Technology" : "https://www.theverge.com/rss/index.xml"
+        "Technology" : "https://www.apple.com/newsroom/rss-feed.rss"
       }
     },
     {
@@ -1406,74 +1358,10 @@
     },
     {
       "countryID" : "US",
-      "id" : "wired",
-      "name" : "WIRED",
-      "topicFeeds" : {
-        "Technology" : "https://www.wired.com/feed/rss"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "engadget",
-      "name" : "Engadget",
-      "topicFeeds" : {
-        "Technology" : "https://www.engadget.com/rss.xml"
-      }
-    },
-    {
-      "countryID" : "US",
       "id" : "cnet",
       "name" : "CNET",
       "topicFeeds" : {
         "Technology" : "https://www.cnet.com/rss/news/"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "zdnet",
-      "name" : "ZDNet",
-      "topicFeeds" : {
-        "Technology" : "https://www.zdnet.com/topic/all/rss.xml"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "venturebeat",
-      "name" : "VentureBeat",
-      "topicFeeds" : {
-        "Technology" : "https://venturebeat.com/feed/"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "mittechnologyreview",
-      "name" : "MIT Technology Review",
-      "topicFeeds" : {
-        "Technology" : "https://www.technologyreview.com/feed/"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "ieeespectrum",
-      "name" : "IEEE Spectrum",
-      "topicFeeds" : {
-        "Technology" : "https://spectrum.ieee.org/feeds/feed.rss"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "macrumors",
-      "name" : "MacRumors",
-      "topicFeeds" : {
-        "Technology" : "https://feeds.macrumors.com/MacRumors-All"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "9to5mac",
-      "name" : "9to5mac",
-      "topicFeeds" : {
-        "Technology" : "https://9to5mac.com/feed/"
       }
     },
     {
@@ -1494,10 +1382,66 @@
     },
     {
       "countryID" : "US",
+      "id" : "engadget",
+      "name" : "Engadget",
+      "topicFeeds" : {
+        "Technology" : "https://www.engadget.com/rss.xml"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "ieeespectrum",
+      "name" : "IEEE Spectrum",
+      "topicFeeds" : {
+        "Technology" : "https://spectrum.ieee.org/feeds/feed.rss"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "macrumors",
+      "name" : "MacRumors",
+      "topicFeeds" : {
+        "Technology" : "https://feeds.macrumors.com/MacRumors-All"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "mittechnologyreview",
+      "name" : "MIT Technology Review",
+      "topicFeeds" : {
+        "Technology" : "https://www.technologyreview.com/feed/"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "sciencedaily",
+      "name" : "ScienceDaily",
+      "topicFeeds" : {
+        "Technology" : "https://www.sciencedaily.com/rss/strange_offbeat.xml"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "techcrunch",
+      "name" : "TechCrunch",
+      "topicFeeds" : {
+        "Technology" : "https://techcrunch.com/feed/"
+      }
+    },
+    {
+      "countryID" : "US",
       "id" : "techradar",
       "name" : "TechRadar",
       "topicFeeds" : {
         "Technology" : "https://www.techradar.com/feeds.xml"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "theverge",
+      "name" : "The Verge",
+      "topicFeeds" : {
+        "Technology" : "https://www.theverge.com/rss/index.xml"
       }
     },
     {
@@ -1510,6 +1454,22 @@
     },
     {
       "countryID" : "US",
+      "id" : "venturebeat",
+      "name" : "VentureBeat",
+      "topicFeeds" : {
+        "Technology" : "https://venturebeat.com/feed/"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "wired",
+      "name" : "WIRED",
+      "topicFeeds" : {
+        "Technology" : "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "countryID" : "US",
       "id" : "xdadevelopers",
       "name" : "XDA Developers",
       "topicFeeds" : {
@@ -1518,10 +1478,18 @@
     },
     {
       "countryID" : "US",
-      "id" : "apple",
-      "name" : "Apple Newsroom",
+      "id" : "zdnet",
+      "name" : "ZDNet",
       "topicFeeds" : {
-        "Technology" : "https://www.apple.com/newsroom/rss-feed.rss"
+        "Technology" : "https://www.zdnet.com/topic/all/rss.xml"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "bleacherreport",
+      "name" : "Bleacher Report",
+      "topicFeeds" : {
+        "Sports" : "https://feeds.bleacherreport.com/articles"
       }
     },
     {
@@ -1542,34 +1510,10 @@
     },
     {
       "countryID" : "US",
-      "id" : "si",
-      "name" : "Sports Illustrated",
-      "topicFeeds" : {
-        "Sports" : "https://www.si.com/feed"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "yahoosports",
-      "name" : "Yahoo Sports",
-      "topicFeeds" : {
-        "Sports" : "https://sports.yahoo.com/rss/"
-      }
-    },
-    {
-      "countryID" : "US",
       "id" : "nbcsports",
       "name" : "NBC Sports",
       "topicFeeds" : {
         "Sports" : "https://www.nbcsports.com/index.atom"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "bleacherreport",
-      "name" : "Bleacher Report",
-      "topicFeeds" : {
-        "Sports" : "https://feeds.bleacherreport.com/articles"
       }
     },
     {
@@ -1590,18 +1534,26 @@
     },
     {
       "countryID" : "US",
-      "id" : "variety",
-      "name" : "Variety",
+      "id" : "si",
+      "name" : "Sports Illustrated",
       "topicFeeds" : {
-        "Entertainment" : "https://variety.com/feed/"
+        "Sports" : "https://www.si.com/feed"
       }
     },
     {
       "countryID" : "US",
-      "id" : "quintessence",
-      "name" : "Quintessence",
+      "id" : "yahoosports",
+      "name" : "Yahoo Sports",
       "topicFeeds" : {
-        "Lifestyle" : "https://quintessenceblog.com/feed/"
+        "Sports" : "https://sports.yahoo.com/rss/"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "variety",
+      "name" : "Variety",
+      "topicFeeds" : {
+        "Entertainment" : "https://variety.com/feed/"
       }
     },
     {
@@ -1614,6 +1566,14 @@
     },
     {
       "countryID" : "US",
+      "id" : "camillestyles",
+      "name" : "Camille Styles",
+      "topicFeeds" : {
+        "Lifestyle" : "https://camillestyles.com/feed/"
+      }
+    },
+    {
+      "countryID" : "US",
       "id" : "consciouslifestyle",
       "name" : "Conscious Lifestyle Magazine",
       "topicFeeds" : {
@@ -1622,10 +1582,10 @@
     },
     {
       "countryID" : "US",
-      "id" : "camillestyles",
-      "name" : "Camille Styles",
+      "id" : "quintessence",
+      "name" : "Quintessence",
       "topicFeeds" : {
-        "Lifestyle" : "https://camillestyles.com/feed/"
+        "Lifestyle" : "https://quintessenceblog.com/feed/"
       }
     },
     {
@@ -1642,6 +1602,38 @@
       "name" : "Condé Nast Traveler",
       "topicFeeds" : {
         "Travel" : "https://www.cntraveler.com/feed/rss"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "destructoid",
+      "name" : "Destructoid",
+      "topicFeeds" : {
+        "Games" : "https://www.destructoid.com/feed"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "gamerant",
+      "name" : "Game Rant",
+      "topicFeeds" : {
+        "Games" : "https://gamerant.com/feed/"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "gamespot",
+      "name" : "GameSpot",
+      "topicFeeds" : {
+        "Games" : "https://www.gamespot.com/feeds/game-news/"
+      }
+    },
+    {
+      "countryID" : "US",
+      "id" : "gematsu_us",
+      "name" : "Gematsu",
+      "topicFeeds" : {
+        "Games" : "https://www.gematsu.com/feed"
       }
     },
     {
@@ -1670,58 +1662,10 @@
     },
     {
       "countryID" : "US",
-      "id" : "gamespot",
-      "name" : "GameSpot",
-      "topicFeeds" : {
-        "Games" : "https://www.gamespot.com/feeds/game-news/"
-      }
-    },
-    {
-      "countryID" : "US",
       "id" : "polygon",
       "name" : "Polygon",
       "topicFeeds" : {
         "Games" : "https://www.polygon.com/rss/index.xml"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "gamerant",
-      "name" : "Game Rant",
-      "topicFeeds" : {
-        "Games" : "https://gamerant.com/feed/"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "destructoid",
-      "name" : "Destructoid",
-      "topicFeeds" : {
-        "Games" : "https://www.destructoid.com/feed"
-      }
-    },
-    {
-      "countryID" : "US",
-      "id" : "gematsu_us",
-      "name" : "Gematsu",
-      "topicFeeds" : {
-        "Games" : "https://www.gematsu.com/feed"
-      }
-    },
-    {
-      "countryID" : "FR",
-      "id" : "liberation",
-      "name" : "Libération",
-      "topicFeeds" : {
-        "General" : "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml"
-      }
-    },
-    {
-      "countryID" : "FR",
-      "id" : "leparisien",
-      "name" : "Le Parisien",
-      "topicFeeds" : {
-        "General" : "https://feeds.leparisien.fr/leparisien/rss"
       }
     },
     {
@@ -1734,18 +1678,26 @@
     },
     {
       "countryID" : "FR",
-      "id" : "lemonde_international",
-      "name" : "Le Monde International",
+      "id" : "leparisien",
+      "name" : "Le Parisien",
       "topicFeeds" : {
-        "World" : "https://www.lemonde.fr/international/rss_full.xml"
+        "General" : "https://feeds.leparisien.fr/leparisien/rss"
       }
     },
     {
       "countryID" : "FR",
-      "id" : "lemonde_politique",
-      "name" : "Le Monde Politics",
+      "id" : "liberation",
+      "name" : "Libération",
       "topicFeeds" : {
-        "Politics" : "https://www.lemonde.fr/en/politics/rss_full.xml"
+        "General" : "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml"
+      }
+    },
+    {
+      "countryID" : "FR",
+      "id" : "lemonde_international",
+      "name" : "Le Monde International",
+      "topicFeeds" : {
+        "World" : "https://www.lemonde.fr/international/rss_full.xml"
       }
     },
     {
@@ -1755,6 +1707,14 @@
       "topicFeeds" : {
         "Politics" : "https://www.lemonde.fr/politique/rss_full.xml",
         "Technology" : "https://www.lemonde.fr/pixels/rss_full.xml"
+      }
+    },
+    {
+      "countryID" : "FR",
+      "id" : "lemonde_politique",
+      "name" : "Le Monde Politics",
+      "topicFeeds" : {
+        "Politics" : "https://www.lemonde.fr/en/politics/rss_full.xml"
       }
     },
     {
@@ -1815,10 +1775,10 @@
     },
     {
       "countryID" : "NL",
-      "id" : "nos",
-      "name" : "NOS",
+      "id" : "dutchnews",
+      "name" : "DutchNews.nl",
       "topicFeeds" : {
-        "General" : "https://feeds.nos.nl/nosnieuwsalgemeen"
+        "General" : "https://www.dutchnews.nl/feed/"
       }
     },
     {
@@ -1831,10 +1791,10 @@
     },
     {
       "countryID" : "NL",
-      "id" : "dutchnews",
-      "name" : "DutchNews.nl",
+      "id" : "nos",
+      "name" : "NOS",
       "topicFeeds" : {
-        "General" : "https://www.dutchnews.nl/feed/"
+        "General" : "https://feeds.nos.nl/nosnieuwsalgemeen"
       }
     },
     {
@@ -1935,18 +1895,11 @@
     },
     {
       "countryID" : "HK",
-      "id" : "unwirehk_games",
+      "id" : "unwirehk",
       "name" : "Unwire.hk",
       "topicFeeds" : {
-        "Technology" : "https://unwire.hk/feed/"
-      }
-    },
-    {
-      "countryID" : "HK",
-      "id" : "hongkongfp_health",
-      "name" : "Hong Kong Free Press Health",
-      "topicFeeds" : {
-        "Health" : "https://hongkongfp.com/feed/"
+        "Lifestyle" : "https://unwire.hk/category/life/feed",
+        "Technology" : "https://unwire.hk/category/tech/feed"
       }
     },
     {
@@ -1982,11 +1935,11 @@
       }
     },
     {
-      "countryID" : "HK",
-      "id" : "unwirehk",
-      "name" : "Unwire HK Gaming",
+      "countryID" : "IN",
+      "id" : "hindustantimes",
+      "name" : "Hindustan Times",
       "topicFeeds" : {
-        "Games" : "https://unwire.hk/feed/"
+        "General" : "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"
       }
     },
     {
@@ -1995,14 +1948,6 @@
       "name" : "NDTV",
       "topicFeeds" : {
         "General" : "https://feeds.feedburner.com/ndtvnews-top-stories"
-      }
-    },
-    {
-      "countryID" : "IN",
-      "id" : "hindustantimes",
-      "name" : "Hindustan Times",
-      "topicFeeds" : {
-        "General" : "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"
       }
     },
     {
@@ -2071,18 +2016,18 @@
     },
     {
       "countryID" : "IN",
-      "id" : "urbandiaries",
-      "name" : "Urban Diaries",
-      "topicFeeds" : {
-        "Lifestyle" : "https://urbandiaries.in/feed/"
-      }
-    },
-    {
-      "countryID" : "IN",
       "id" : "naina",
       "name" : "Naina.co",
       "topicFeeds" : {
         "Lifestyle" : "https://naina.co/feed"
+      }
+    },
+    {
+      "countryID" : "IN",
+      "id" : "urbandiaries",
+      "name" : "Urban Diaries",
+      "topicFeeds" : {
+        "Lifestyle" : "https://urbandiaries.in/feed/"
       }
     },
     {
@@ -2095,18 +2040,27 @@
     },
     {
       "countryID" : "IL",
-      "id" : "timesofisrael",
-      "name" : "The Times of Israel",
+      "id" : "jpost",
+      "name" : "The Jerusalem Post",
       "topicFeeds" : {
-        "General" : "https://www.timesofisrael.com/feed/"
+        "Economy" : "https://www.jpost.com/rss/rssbankingandfinance",
+        "Entertainment" : "https://www.jpost.com/rss/rssfeedsculture.aspx",
+        "General" : "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
+        "Health" : "https://www.jpost.com/rss/rsshealth-and-wellness",
+        "Politics" : "https://www.jpost.com/rss/rssfeedsamerican-politics",
+        "Technology" : "https://www.jpost.com/rss/rsstechandstartups",
+        "World" : "https://www.jpost.com/rss/rssfeedsinternational"
       }
     },
     {
       "countryID" : "IL",
-      "id" : "jpost",
-      "name" : "The Jerusalem Post",
+      "id" : "timesofisrael",
+      "name" : "The Times of Israel",
       "topicFeeds" : {
-        "General" : "https://www.jpost.com/rss/rssfeedsfrontpage.aspx"
+        "Economy" : "https://www.timesofisrael.com/topic/business/feed",
+        "Entertainment" : "https://www.timesofisrael.com/topic/culture/feed",
+        "General" : "https://www.timesofisrael.com/feed/",
+        "Sports" : "https://www.timesofisrael.com/topic/sports/feed"
       }
     },
     {
@@ -2115,22 +2069,6 @@
       "name" : "Ynetnews",
       "topicFeeds" : {
         "General" : "https://www.ynetnews.com/Integration/StoryRss2.xml"
-      }
-    },
-    {
-      "countryID" : "IL",
-      "id" : "timesofisrael_world",
-      "name" : "The Times of Israel",
-      "topicFeeds" : {
-        "World" : "https://www.timesofisrael.com/feed/"
-      }
-    },
-    {
-      "countryID" : "IL",
-      "id" : "timesofisrael_politics",
-      "name" : "The Times of Israel",
-      "topicFeeds" : {
-        "Politics" : "https://www.timesofisrael.com/feed/"
       }
     },
     {
@@ -2159,30 +2097,6 @@
     },
     {
       "countryID" : "IL",
-      "id" : "jewishtraveler",
-      "name" : "Jewish Traveler",
-      "topicFeeds" : {
-        "Travel" : "https://www.jewishtraveler.co.il/feed/"
-      }
-    },
-    {
-      "countryID" : "IL",
-      "id" : "telavivcityladies",
-      "name" : "Tel Aviv City Ladies",
-      "topicFeeds" : {
-        "Travel" : "https://telavivcityladies.com/feed/"
-      }
-    },
-    {
-      "countryID" : "IL",
-      "id" : "israel_travel_secrets",
-      "name" : "Israel Travel Secrets",
-      "topicFeeds" : {
-        "Travel" : "https://israel-travel-secrets.com/feed/"
-      }
-    },
-    {
-      "countryID" : "IL",
       "id" : "adi_sees_world",
       "name" : "Adi Sees World",
       "topicFeeds" : {
@@ -2195,6 +2109,30 @@
       "name" : "I Googled Israel",
       "topicFeeds" : {
         "Travel" : "https://igoogledisrael.com/feed/"
+      }
+    },
+    {
+      "countryID" : "IL",
+      "id" : "israel_travel_secrets",
+      "name" : "Israel Travel Secrets",
+      "topicFeeds" : {
+        "Travel" : "https://israel-travel-secrets.com/feed/"
+      }
+    },
+    {
+      "countryID" : "IL",
+      "id" : "jewishtraveler",
+      "name" : "Jewish Traveler",
+      "topicFeeds" : {
+        "Travel" : "https://www.jewishtraveler.co.il/feed/"
+      }
+    },
+    {
+      "countryID" : "IL",
+      "id" : "telavivcityladies",
+      "name" : "Tel Aviv City Ladies",
+      "topicFeeds" : {
+        "Travel" : "https://telavivcityladies.com/feed/"
       }
     },
     {
@@ -2215,18 +2153,18 @@
     },
     {
       "countryID" : "IT",
-      "id" : "corriere",
-      "name" : "Corriere della Sera",
-      "topicFeeds" : {
-        "General" : "https://xml2.corriereobjects.it/rss/homepage.xml"
-      }
-    },
-    {
-      "countryID" : "IT",
       "id" : "ansa",
       "name" : "ANSA",
       "topicFeeds" : {
         "General" : "https://www.ansa.it/sito/ansait_rss.xml"
+      }
+    },
+    {
+      "countryID" : "IT",
+      "id" : "corriere",
+      "name" : "Corriere della Sera",
+      "topicFeeds" : {
+        "General" : "https://xml2.corriereobjects.it/rss/homepage.xml"
       }
     },
     {
@@ -2271,14 +2209,6 @@
     },
     {
       "countryID" : "IT",
-      "id" : "cinema_centrale",
-      "name" : "Cinema Centrale",
-      "topicFeeds" : {
-        "Entertainment" : "https://cinemacentrale.com/feed/"
-      }
-    },
-    {
-      "countryID" : "IT",
       "id" : "bestmovie",
       "name" : "Best Movie",
       "topicFeeds" : {
@@ -2291,6 +2221,14 @@
       "name" : "Cineblog",
       "topicFeeds" : {
         "Entertainment" : "https://www.cineblog.it/feed/"
+      }
+    },
+    {
+      "countryID" : "IT",
+      "id" : "cinema_centrale",
+      "name" : "Cinema Centrale",
+      "topicFeeds" : {
+        "Entertainment" : "https://cinemacentrale.com/feed/"
       }
     },
     {
@@ -2327,14 +2265,6 @@
     },
     {
       "countryID" : "JP",
-      "id" : "japantimes",
-      "name" : "The Japan Times",
-      "topicFeeds" : {
-        "General" : "https://www.japantimes.co.jp/feed/"
-      }
-    },
-    {
-      "countryID" : "JP",
       "id" : "asahi",
       "name" : "Asahi Shimbun",
       "topicFeeds" : {
@@ -2343,10 +2273,10 @@
     },
     {
       "countryID" : "JP",
-      "id" : "nikkei_asia",
-      "name" : "Nikkei Asia",
+      "id" : "japantimes",
+      "name" : "The Japan Times",
       "topicFeeds" : {
-        "World" : "https://asia.nikkei.com/rss/feed/nar"
+        "General" : "https://www.japantimes.co.jp/feed/"
       }
     },
     {
@@ -2490,7 +2420,11 @@
       "id" : "elcomercio_pe",
       "name" : "El Comercio",
       "topicFeeds" : {
-        "General" : "https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml"
+        "Economy" : "https://elcomercio.pe/arc/outboundfeeds/rss/category/economia/?outputType=xml",
+        "General" : "https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml",
+        "Politics" : "https://elcomercio.pe/arc/outboundfeeds/rss/category/politica/?outputType=xml",
+        "Technology" : "https://elcomercio.pe/arc/outboundfeeds/rss/category/tecnologia/?outputType=xml",
+        "World" : "https://elcomercio.pe/arc/outboundfeeds/rss/category/mundo/?outputType=xml"
       }
     },
     {
@@ -2506,15 +2440,7 @@
       "id" : "rpp_mundo",
       "name" : "RPP Mundo",
       "topicFeeds" : {
-        "World" : "https://rpp.pe/rss"
-      }
-    },
-    {
-      "countryID" : "PE",
-      "id" : "rpp_politica",
-      "name" : "RPP Política",
-      "topicFeeds" : {
-        "Politics" : "https://rpp.pe/rss"
+        "General" : "https://rpp.pe/rss"
       }
     },
     {
@@ -2567,18 +2493,18 @@
     },
     {
       "countryID" : "PT",
-      "id" : "publico",
-      "name" : "Público",
-      "topicFeeds" : {
-        "General" : "https://feeds.feedburner.com/PublicoRSS"
-      }
-    },
-    {
-      "countryID" : "PT",
       "id" : "observador",
       "name" : "Observador",
       "topicFeeds" : {
         "General" : "https://observador.pt/feed/"
+      }
+    },
+    {
+      "countryID" : "PT",
+      "id" : "publico",
+      "name" : "Público",
+      "topicFeeds" : {
+        "General" : "https://feeds.feedburner.com/PublicoRSS"
       }
     },
     {
@@ -2663,18 +2589,18 @@
     },
     {
       "countryID" : "GB",
-      "id" : "independent",
-      "name" : "The Independent",
-      "topicFeeds" : {
-        "General" : "https://www.independent.co.uk/news/uk/rss"
-      }
-    },
-    {
-      "countryID" : "GB",
       "id" : "skynews",
       "name" : "Sky News",
       "topicFeeds" : {
         "General" : "https://feeds.skynews.com/feeds/rss/home.xml"
+      }
+    },
+    {
+      "countryID" : "GB",
+      "id" : "independent",
+      "name" : "The Independent",
+      "topicFeeds" : {
+        "General" : "https://www.independent.co.uk/news/uk/rss"
       }
     },
     {
@@ -2699,20 +2625,20 @@
     },
     {
       "countryID" : "GB",
+      "id" : "politicscouk",
+      "name" : "Politics.co.uk",
+      "topicFeeds" : {
+        "Politics" : "https://www.politics.co.uk/feed/"
+      }
+    },
+    {
+      "countryID" : "GB",
       "id" : "guardian",
       "name" : "The Guardian",
       "topicFeeds" : {
         "Entertainment" : "https://www.theguardian.com/film/rss",
         "Games" : "https://www.theguardian.com/games/rss",
         "Politics" : "https://www.theguardian.com/politics/rss"
-      }
-    },
-    {
-      "countryID" : "GB",
-      "id" : "politicscouk",
-      "name" : "Politics.co.uk",
-      "topicFeeds" : {
-        "Politics" : "https://www.politics.co.uk/feed/"
       }
     },
     {
@@ -2773,6 +2699,14 @@
     },
     {
       "countryID" : "RU",
+      "id" : "sputnik",
+      "name" : "Sputnik",
+      "topicFeeds" : {
+        "General" : "https://sputnikglobe.com/export/rss2/archive/index.xml"
+      }
+    },
+    {
+      "countryID" : "RU",
       "id" : "tass",
       "name" : "TASS",
       "topicFeeds" : {
@@ -2785,14 +2719,6 @@
       "name" : "The Moscow Times",
       "topicFeeds" : {
         "General" : "https://www.themoscowtimes.com/rss/news"
-      }
-    },
-    {
-      "countryID" : "RU",
-      "id" : "sputnik",
-      "name" : "Sputnik",
-      "topicFeeds" : {
-        "General" : "https://sputnikglobe.com/export/rss2/archive/index.xml"
       }
     },
     {
@@ -2861,34 +2787,23 @@
     },
     {
       "countryID" : "SG",
-      "id" : "straitstimes",
-      "name" : "The Straits Times",
-      "topicFeeds" : {
-        "General" : "https://www.straitstimes.com/news/singapore/rss.xml"
-      }
-    },
-    {
-      "countryID" : "SG",
       "id" : "cna",
-      "name" : "Channel NewsAsia",
+      "name" : "CNA",
       "topicFeeds" : {
         "General" : "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"
       }
     },
     {
       "countryID" : "SG",
-      "id" : "straitstimes_world",
-      "name" : "The Straits Times World",
+      "id" : "straitstimes",
+      "name" : "The Straits Times",
       "topicFeeds" : {
+        "Economy" : "https://www.straitstimes.com/news/business/rss.xml",
+        "General" : "https://www.straitstimes.com/news/singapore/rss.xml",
+        "Lifestyle" : "https://www.straitstimes.com/news/life/rss.xml",
+        "Politics" : "https://www.straitstimes.com/rss.xml",
+        "Sports" : "https://www.straitstimes.com/news/sport/rss.xml",
         "World" : "https://www.straitstimes.com/news/world/rss.xml"
-      }
-    },
-    {
-      "countryID" : "SG",
-      "id" : "straitstimes_politics",
-      "name" : "The Straits Times Politics",
-      "topicFeeds" : {
-        "Politics" : "https://www.straitstimes.com/rss.xml"
       }
     },
     {
@@ -2897,22 +2812,6 @@
       "name" : "The Business Times",
       "topicFeeds" : {
         "Economy" : "https://www.businesstimes.com.sg/rss.xml"
-      }
-    },
-    {
-      "countryID" : "SG",
-      "id" : "cna_health",
-      "name" : "CNA Health",
-      "topicFeeds" : {
-        "Health" : "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"
-      }
-    },
-    {
-      "countryID" : "SG",
-      "id" : "straitstimessport",
-      "name" : "The Straits Times Sport",
-      "topicFeeds" : {
-        "Sports" : "https://www.straitstimes.com/news/sport/rss.xml"
       }
     },
     {
@@ -2928,7 +2827,7 @@
       "id" : "cna_lifestyle",
       "name" : "CNA Lifestyle",
       "topicFeeds" : {
-        "Entertainment" : "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"
+        "Entertainment" : "https://cnalifestyle.channelnewsasia.com/rss"
       }
     },
     {
@@ -2957,18 +2856,18 @@
     },
     {
       "countryID" : "CH",
-      "id" : "nzz",
-      "name" : "Neue Zürcher Zeitung",
-      "topicFeeds" : {
-        "General" : "https://www.nzz.ch/recent.rss"
-      }
-    },
-    {
-      "countryID" : "CH",
       "id" : "letemps",
       "name" : "Le Temps",
       "topicFeeds" : {
         "General" : "https://www.letemps.ch/articles.rss"
+      }
+    },
+    {
+      "countryID" : "CH",
+      "id" : "nzz",
+      "name" : "Neue Zürcher Zeitung",
+      "topicFeeds" : {
+        "General" : "https://www.nzz.ch/recent.rss"
       }
     },
     {
@@ -3037,14 +2936,6 @@
     },
     {
       "countryID" : "TR",
-      "id" : "trtworld_turkiye",
-      "name" : "TRT World Türkiye",
-      "topicFeeds" : {
-        "Politics" : "https://www.trtworld.com/feed/rss.xml"
-      }
-    },
-    {
-      "countryID" : "TR",
       "id" : "dunya",
       "name" : "Dünya",
       "topicFeeds" : {
@@ -3100,6 +2991,6 @@
       }
     }
   ],
-  "updatedAt" : "2026-07-17",
-  "version" : 5
+  "updatedAt" : "2026-07-22",
+  "version" : 7
 }
